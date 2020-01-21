@@ -98,6 +98,8 @@ You can expect from us:
 
 #### Grading Policy
 
+The anticipated breakdown of course grades is as follows; this is subject to change.
+
 - Team Project (40%)
 - Labs (20%)
 - Participation (15%)
@@ -106,9 +108,9 @@ You can expect from us:
 
 #### Grading Notes
 
-- Individual projects/assignments/labs will not be scaled so don't ask.
-- The instructor may or may not choose to scale final grades so don't ask.
-- Final grades are assigned based on the overall weighted average as defined by the grading policy. Grades will not be rounded up so don’t ask. For example, if you achieve an 89.93 then the final letter grade is a B+ not an A-. Do not ask.
+- Individual projects/assignments/labs will not be scaled, so don't ask.
+- The instructor may or may not choose to scale final grades, so don't ask.
+- Final grades are assigned based on the overall weighted average as defined by the grading policy. Grades will not be rounded up so don't ask. For example, if you achieve an 89.93 then the final letter grade is a B+ not an A-. Do not ask.
 
 #### Participation
 
