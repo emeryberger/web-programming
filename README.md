@@ -1,6 +1,6 @@
-# COMPSCI 326 Web Programming
+# [COMPSCI 326 Web Programming](http://web-programming.org)
 ## Spring 2020
-## Professor (Emery Berger)[https://www.emeryberger.com]
+## Professor [Emery Berger](https://www.emeryberger.com)
 
 ### Course Overview
 
@@ -146,7 +146,7 @@ Your first point of contact is the teaching assistant (TA) for your assigned lab
 
 #### Online Discussion Forum
 
-We will be using Piazza for all communication. The discussion forum should be your first choice for asking questions as others most certainly have the same question. You should check the discussion forum before asking your question to see if the same question has already been posted. We will not answer questions that have already been answered in the discussion forum. Think before you post. We expect you to do a reasonable amount of thinking to try to solve your problems before posting for help. Make sure you are articulate and clear with your post (i.e., think before you post). You should post questions related to assignments early rather than wait until the last minute. Questions that are posted very near an assignment deadline may not be answered. Course staff are expected to answer questions Monday through Friday. **Do not expect prompt answers on Saturday, Sunday, and scheduled holidays and breaks.**
+We will be using [Piazza](https://piazza.com/class/k54kjhj9hsk1s4) for all communication. The discussion forum should be your first choice for asking questions as others most certainly have the same question. You should check the discussion forum before asking your question to see if the same question has already been posted. We will not answer questions that have already been answered in the discussion forum. Think before you post. We expect you to do a reasonable amount of thinking to try to solve your problems before posting for help. Make sure you are articulate and clear with your post (i.e., think before you post). You should post questions related to assignments early rather than wait until the last minute. Questions that are posted very near an assignment deadline may not be answered. Course staff are expected to answer questions Monday through Friday. **Do not expect prompt answers on Saturday, Sunday, and scheduled holidays and breaks.**
 
 *Note: Do not send direct email to course staff unless your discussion section TA allows it or it is an emergency (death or extreme documented illness).*
 
