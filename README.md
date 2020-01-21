@@ -14,6 +14,14 @@
 
 The web is arguably today's most important application platform. Web browsers run on practically every device, and even many phone applications are in fact web applications under the covers. This course will cover a broad range of client-side web technologies, including HTTP itself, HTML5, CSS, and JavaScript; it will additionally cover key concepts for the server side of web applications, including key value stores and SQL servers. This course will also cover key concepts and technologies including AJAX, JavaScript libraries (e.g., jQuery), and web security. This course is hands-on and heavily project-based; students will construct a substantial dynamic web application based on the concepts, technologies, and techniques presented during lectures and in readings. This course satisfies the IE Requirement.
 
+### Required Text
+Zybook - Web Programming
+
+1. Sign in or create an account at https://learn.zybooks.com.
+2. Enter zyBook code: `UMASSCOMPSCI326BergerSpring2020`
+3. Subscribe
+
+The subscription is $77.
 
 ### Prerequisites
 
@@ -35,15 +43,6 @@ The learning outcomes of this course are:
 - Students will learn and apply the connection between front-end and back-end
 - Students will learn and apply a RESTful web application
 - Students will learn and apply the fundamental construction of a modern complete web application
-
-### Required Text
-Zybook - Web Programming
-
-1. Sign in or create an account at https://learn.zybooks.com.
-2. Enter zyBook code: `UMASSCOMPSCI326BergerSpring2020`
-3. Subscribe
-
-The subscription is $77.
 
 ### Course Development Environment
 
@@ -110,13 +109,13 @@ The anticipated breakdown of course grades is as follows; this is subject to cha
 
 #### Grading Notes
 
-- Individual projects/assignments/labs will not be scaled, so don't ask.
+- Individual projects/assignments/labs will not be scaled (curved), so don't ask.
 - The instructor may or may not choose to scale final grades, so don't ask.
-- Final grades are assigned based on the overall weighted average as defined by the grading policy. Grades will not be rounded up so don't ask. For example, if you achieve an 89.93 then the final letter grade is a B+ not an A-. Do not ask.
+- Final grades are assigned based on the overall weighted average as defined by the grading policy. Grades will not be rounded up, so...don't ask. For example, if you achieve an 89.93 then the final letter grade will be (for example) a B+, not an A-. Do not ask.
 
 #### Participation
 
-For each assigned reading, there will be associated participation exercises. You will be required to complete participation exercises as part of the reading _before lecture_ to be given credit. These activities are associated with the book. Several of these activities require you to simply review an animation.
+For each assigned reading, there will be associated participation exercises. You will be required to complete participation exercises as part of the reading _the day after each lecture_ to be given credit. These activities are associated with the book. Several of these activities require you to simply review an animation.
 
 #### Challenges
 
