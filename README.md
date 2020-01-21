@@ -4,10 +4,10 @@
 
 - **Lectures:** TuTh 4:00PM - 5:15PM, South College Room W245
 - **Labs:** Mo 4:00PM - 4:50PM, South College Room W245 (same room)
-- **Course web page:** http://web-programming.org)
+- **Course web page:** http://web-programming.org
+- **Textbook:** https://github.com/emeryberger/web-programming#required-text
 - **TAs:** Ziwei He, Ishan Khatri
 - **Piazza:** https://piazza.com/class/k54kjhj9hsk1s4
-- **Final Exam:** Friday, 5/1/2020, 3:30PM - 5:30PM, Thompson Hall room 102
 
 ### Course Overview
 
@@ -37,7 +37,7 @@ The learning outcomes of this course are:
 ### Required Text
 Zybook - Web Programming
 
-1. Sign in or create an account at (learn.zybooks.com)[learn.zybooks.com]
+1. Sign in or create an account at http://learn.zybooks.com.
 2. Enter zyBook code: `UMASSCOMPSCI326BergerSpring2020`
 3. Subscribe
 
