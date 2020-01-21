@@ -8,6 +8,7 @@
 - **Textbook:** [Click for information](https://github.com/emeryberger/web-programming#required-text)
 - **TAs:** Ziwei He: [ziweihe@umass.edu](mailto:ziweihe@umass.edu), Ishan Khatri: [ikhatri@umass.edu](mailto:ikhatri@umass.edu)
 - **Piazza:** [https://piazza.com/class/k54kjhj9hsk1s4](https://piazza.com/class/k54kjhj9hsk1s4)
+- **Course calendar:** [http://web-programming.org/schedule.html](https://emeryberger.github.io/web-programming/schedule.html)
 
 ### Course Overview
 
