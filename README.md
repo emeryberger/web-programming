@@ -6,7 +6,7 @@
 - **Labs:** Mo 4:00PM - 4:50PM, South College Room W245 (same room)
 - **Course web page:** http://web-programming.org
 - **Textbook:** https://github.com/emeryberger/web-programming#required-text
-- **TAs:** Ziwei He, Ishan Khatri
+- **TAs:** Ziwei He: ziweihe@umass.edu, Ishan Khatri: ikhatri@umass.edu
 - **Piazza:** https://piazza.com/class/k54kjhj9hsk1s4
 
 ### Course Overview
