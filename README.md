@@ -38,7 +38,7 @@ The learning outcomes of this course are:
 ### Required Text
 Zybook - Web Programming
 
-1. Sign in or create an account at http://learn.zybooks.com.
+1. Sign in or create an account at https://learn.zybooks.com.
 2. Enter zyBook code: `UMASSCOMPSCI326BergerSpring2020`
 3. Subscribe
 
