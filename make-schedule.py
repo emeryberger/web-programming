@@ -32,8 +32,8 @@ def date_to_number(date_str):
 #with open('footer.html') as footer_file:
 #    footer = footer_file.read()
 
-header  = "| Number | Day | Date | Topic |  Reading  | Assigned | Due |\n"
-header += "| --      | --  | --   | --    |  --       | --       | --  |"
+header  = "| Number | Day | Date | Topic |  Reading  | Due |\n"
+header += "| --      | --  | --   | --    |  --       | --  |"
 
 print(header)
 
@@ -57,7 +57,7 @@ for r in rows:
     if row['type'] != "":
         sequence_number[row['type']] += 1
         type_name = row['type'][0].upper() + row['type'][1:]
-        print(f"|{type_name + ' ' + str(sequence_number[row['type']])}|{process_date(row['date'])}|{row['date']}|_{row['topic']}_|{'**'+row['reading']+'**' if row['reading'] != '' else ''}|{row['assigned']}|{'**' + row['due'] + '**' if row['due'] != '' else ''}|")
+        print(f"|{type_name + ' ' + str(sequence_number[row['type']])}|{process_date(row['date'])}|{row['date']}|_{row['topic']}_|{'**'+row['reading']+'**' if row['reading'] != '' else ''}|{'**' + row['due'] + '**' if row['due'] != '' else ''}|")
 
 
 # print(footer)
