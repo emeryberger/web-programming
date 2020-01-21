@@ -5,7 +5,7 @@
 - **Lectures:** TuTh 4:00PM - 5:15PM, South College Room W245
 - **Labs:** Mo 4:00PM - 4:50PM, South College Room W245 (same room)
 - **Course web page:** [http://web-programming.org](https://web-programming.org)
-- **Textbook:** [Click for information](https://github.com/emeryberger/web-programming#required-text)
+- **Textbook:** [Click for information](http://web-programming.org/#required-text)
 - **Recommended IDE:** [Visual Studio Code](https://code.visualstudio.com/).
 - **TAs:** Ziwei He: [ziweihe@umass.edu](mailto:ziweihe@umass.edu), Ishan Khatri: [ikhatri@umass.edu](mailto:ikhatri@umass.edu)
 - **Office hours:** _to be determined_
