@@ -2,9 +2,12 @@
 ## Spring 2020
 ## Professor [Emery Berger](https://www.emeryberger.com)
 
+- **Lectures:** TuTh 4:00PM - 5:15PM, South College Room W245
+- **Labs:** Mo 4:00PM - 4:50PM, South College Room W245 (same room)
 - **Course web page:** http://web-programming.org)
 - **TAs:** Ziwei He, Ishan Khatri
 - **Piazza:** https://piazza.com/class/k54kjhj9hsk1s4
+- **Final Exam:** Friday, 5/1/2020, 3:30PM - 5:30PM, Thompson Hall room 102
 
 ### Course Overview
 
