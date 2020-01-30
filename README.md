@@ -12,7 +12,7 @@
 - **Piazza:** [https://piazza.com/class/k54kjhj9hsk1s4](https://piazza.com/class/k54kjhj9hsk1s4)
 - **Course calendar:** [http://web-programming.org/schedule.html](http://web-programming.org/schedule.html)
 - **Course syllabus:** [http://web-programming.org/syllabus.html](http://web-programming.org/syllabus.html)
-- **In-class "whiteboard":**[COMPSCI 326 Spring 2020 whiteboard](https://github.com/web-programming-org/web-programming/blob/master/COMPSCI%20326%20Spring%202020%20whiteboard.pdf)
+- **In-class "whiteboard":** [COMPSCI 326 Spring 2020 whiteboard](https://github.com/web-programming-org/web-programming/blob/master/COMPSCI%20326%20Spring%202020%20whiteboard.pdf)
 
 ### Course Overview
 
