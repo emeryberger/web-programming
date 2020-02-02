@@ -8,7 +8,7 @@
 - **Textbook:** [Click for information](http://web-programming.org/#required-text)
 - **Recommended IDE:** [Visual Studio Code](https://code.visualstudio.com/).
 - **TAs:** Ziwei He: [ziweihe@umass.edu](mailto:ziweihe@umass.edu), Ishan Khatri: [ikhatri@umass.edu](mailto:ikhatri@umass.edu)
-- **Office hours:** _to be determined_
+- **Office hours:** Ziwei He: CS207, Wednesdays 2:30pm-3:30pm
 - **Piazza:** [https://piazza.com/class/k54kjhj9hsk1s4](https://piazza.com/class/k54kjhj9hsk1s4)
 - **Course calendar:** [http://web-programming.org/schedule.html](http://web-programming.org/schedule.html)
 - **Course syllabus:** [http://web-programming.org/syllabus.html](http://web-programming.org/syllabus.html)
