@@ -1,4 +1,3 @@
-(function(){
   var crypt = require('crypt'),
       utf8 = require('charenc').utf8,
       isBuffer = require('is-buffer'),
@@ -156,5 +155,3 @@
         options && options.asString ? bin.bytesToString(digestbytes) :
         crypt.bytesToHex(digestbytes);
   };
-
-})();
