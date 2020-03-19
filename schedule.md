@@ -33,25 +33,23 @@
 |Homework 12|Fri|3/6/2020|__||**P10**|
 |Lab 6|Mon|3/9/2020|_Lab 6_|||
 |Lecture 14|Tue|3/10/2020|_Nodejs_|**Ch11.1 - C11.4**|**L6**|
-|Homework 13|Wed|3/11/2020|__||**P11A**|
 |Lecture 15|Thu|3/12/2020|_Nodejs_|**Ch11.5 - C11.6**||
-|Homework 14|Fri|3/13/2020|__||**P11B**|
+|Homework 13|Fri|3/20/2020|__||**Mini-project 1**|
 |Lab 7|Mon|3/23/2020|_Lab 7_|||
 |Lecture 16|Tue|3/24/2020|_Nodejs_|**Ch11.7 - Ch11.8**|**L7**|
-|Homework 15|Wed|3/25/2020|__||**P11C**|
+|Homework 14|Wed|3/25/2020|__|||
 |Lecture 17|Thu|3/26/2020|_Nodejs_|**Ch11.9 - Ch11.13**||
-|Homework 16|Fri|3/27/2020|__||**P11D**|
-|Lab 8|Mon|3/30/2020|_Lab 8_|||
-|Lecture 18|Tue|3/31/2020|_Project Work_||**L8**|
+|Lab 8|Mon|3/30/2020|_Project Work_|||
+|Lecture 18|Tue|3/31/2020|_Project Work_|||
 |Lecture 19|Thu|4/2/2020|_Project Work_|||
-|Lab 9|Mon|4/6/2020|_Lab 9_|||
-|Lecture 20|Tue|4/7/2020|_Project Work_||**L9**|
+|Lab 9|Mon|4/6/2020|_Project Work_|||
+|Lecture 20|Tue|4/7/2020|_Project Work_|||
 |Lecture 21|Thu|4/9/2020|_Project Work_|||
-|Lab 10|Mon|4/13/2020|_Lab 10_|||
-|Lecture 22|Tue|4/14/2020|_Project Work_||**L10**|
+|Lab 10|Mon|4/13/2020|_Project Work_|||
+|Lecture 22|Tue|4/14/2020|_Project Work_|||
 |Lecture 23|Thu|4/16/2020|_Project Work_|||
 |Lecture 24|Tue|4/21/2020|_Project Work_|||
-|Lab 11|Wed|4/22/2020|_Lab 11_|||
-|Lecture 25|Thu|4/23/2020|_Project Work_||**L11**|
-|Lab 12|Mon|4/27/2020|_Lab 12_|||
-|Lecture 26|Tue|4/28/2020|_Project Demos_||**L12, Project**|
+|Lab 11|Wed|4/22/2020|_Project Work_|||
+|Lecture 25|Thu|4/23/2020|_Project Work_|||
+|Lab 12|Mon|4/27/2020|_Project Work_|||
+|Lecture 26|Tue|4/28/2020|_Project Demos_||**Project**|
