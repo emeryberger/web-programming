@@ -34,11 +34,12 @@
 |Lab 6|Mon|3/9/2020|_Lab 6_|||
 |Lecture 14|Tue|3/10/2020|_Nodejs_|**Ch11.1 - C11.4**|**L6**|
 |Lecture 15|Thu|3/12/2020|_Nodejs_|**Ch11.5 - C11.6**||
-|Homework 13|Fri|3/20/2020|__||**Mini-project 1**|
-|Lab 7|Mon|3/23/2020|_Lab 7_|||
+|Homework 13|Mon|3/23/2020|_Mini-project 1 due_||**Mini-project 1**|
+|Lab 7|Mon|3/23/2020|_Project Work_|||
 |Lecture 16|Tue|3/24/2020|_Nodejs_|**Ch11.7 - Ch11.8**|**L7**|
 |Homework 14|Wed|3/25/2020|__|||
 |Lecture 17|Thu|3/26/2020|_Nodejs_|**Ch11.9 - Ch11.13**||
+|Homework 15|Mon|3/30/2020|_Milestone 0 due_||**Project Milestone 0**|
 |Lab 8|Mon|3/30/2020|_Project Work_|||
 |Lecture 18|Tue|3/31/2020|_Project Work_|||
 |Lecture 19|Thu|4/2/2020|_Project Work_|||
