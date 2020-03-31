@@ -94,7 +94,7 @@ Labs are larger assignments associated with the material covered during the week
 
 ####  Team Project
 
-The team project encompasses the last third of the semester - approximately 4 weeks. You will be required to work in a team of 4 students to design and implement a socially conscious web application using the three important components of web applications including HTML, CSS, and JavaScript. The design and implementation of the application is entirely up to you, but it must be socially aware, solve a real-world problem, be connected to work you have done in other areas (general education), connect to your discipline (e.g., CS, Informatics) and be relatively unique as compared to other existing applications (within reason). You are strongly encouraged to use the React framework; other libraries or frameworks are allowed only with prior consent of the professor.
+The team project encompasses the last third of the semester - approximately 4 weeks. You will be required to work in a team of 4 students to design and implement a socially conscious web application using the three important components of web applications including HTML, CSS, and JavaScript. The design and implementation of the application is entirely up to you, but it must be socially aware, solve a real-world problem, be connected to work you have done in other areas (general education), connect to your discipline (e.g., CS, Informatics) and be relatively unique as compared to other existing applications (within reason). You are expected to _not_ use any frameworks beyond Bootstrap; other libraries are allowed only with prior consent of the professor.
 
 #### Team Project Demos
 
