@@ -1,17 +1,18 @@
 # [COMPSCI 326 Web Programming](http://web-programming.org)
-## Fall 2020 (the below information is for Spring 2020 and being updated)
+## Spring 2020
 ## Professor [Emery Berger](https://www.emeryberger.com)
 
 - **Lectures:** TuTh 4:00PM - 5:15PM, South College Room W245
 - **Labs:** Mo 4:00PM - 4:50PM, South College Room W245 (same room)
 - **Course web page:** [http://web-programming.org](https://web-programming.org)
+- **Textbook:** [Click for information](http://web-programming.org/#required-text)
 - **Recommended IDE:** [Visual Studio Code](https://code.visualstudio.com/).
-- **TAs:** ~~Ziwei He: [ziweihe@umass.edu](mailto:ziweihe@umass.edu), Ishan Khatri: [ikhatri@umass.edu](mailto:ikhatri@umass.edu)~~
-- **Office hours:** ~~Ziwei He: CS207, Wednesdays 2:30pm-3:30pm~~
-- **Piazza:** ~~[https://piazza.com/class/k54kjhj9hsk1s4](https://piazza.com/class/k54kjhj9hsk1s4)~~
-- **Course calendar:** ~~[http://web-programming.org/schedule.html](http://web-programming.org/schedule.html)~~
-- **Course syllabus:** ~~[http://web-programming.org/syllabus.html](http://web-programming.org/syllabus.html)~~
-~~- **In-class "whiteboard":** [COMPSCI 326 Spring 2020 whiteboard](https://github.com/web-programming-org/web-programming/blob/master/COMPSCI%20326%20Spring%202020%20whiteboard.pdf)~~
+- **TAs:** Ziwei He: [ziweihe@umass.edu](mailto:ziweihe@umass.edu), Ishan Khatri: [ikhatri@umass.edu](mailto:ikhatri@umass.edu)
+- **Office hours:** Ziwei He: CS207, Wednesdays 2:30pm-3:30pm
+- **Piazza:** [https://piazza.com/class/k54kjhj9hsk1s4](https://piazza.com/class/k54kjhj9hsk1s4)
+- **Course calendar:** [http://web-programming.org/schedule.html](http://web-programming.org/schedule.html)
+- **Course syllabus:** [http://web-programming.org/syllabus.html](http://web-programming.org/syllabus.html)
+- **In-class "whiteboard":** [COMPSCI 326 Spring 2020 whiteboard](https://github.com/web-programming-org/web-programming/blob/master/COMPSCI%20326%20Spring%202020%20whiteboard.pdf)
 
 ### Course Overview
 
