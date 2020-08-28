@@ -2,13 +2,13 @@
 ## Fall 2020 (the below information is for Spring 2020 and being updated)
 ## Professor [Emery Berger](https://www.emeryberger.com)
 
-- **Lectures:** TuTh 4:00PM - 5:15PM, South College Room W245
-- **Labs:** Mo 4:00PM - 4:50PM, South College Room W245 (same room)
+- **Lectures:** TuTh 2:00PM - 2:15PM, on Zoom
+- **Labs:** Fr 4:00PM - 4:50PM, on Zoom
 - **Course web page:** [http://web-programming.org](https://web-programming.org)
 - **Recommended IDE:** [Visual Studio Code](https://code.visualstudio.com/).
-- **TAs:** ~~Ziwei He: [ziweihe@umass.edu](mailto:ziweihe@umass.edu), Ishan Khatri: [ikhatri@umass.edu](mailto:ikhatri@umass.edu)~~
+- **TAs:** Joseph Spitzer: [jspitzer@umass.edu](mailto:jspitzer@umass.edu), Nicolas van Kempen: [nvankemp@gmail.com](mailto:nvankemp@gmail.com)
 - **Office hours:** ~~Ziwei He: CS207, Wednesdays 2:30pm-3:30pm~~
-- **Piazza:** ~~[https://piazza.com/class/k54kjhj9hsk1s4](https://piazza.com/class/k54kjhj9hsk1s4)~~
+- **Piazza:** [https://piazza.com/class/kd9e5szb1gs4h1](https://piazza.com/class/kd9e5szb1gs4h1)
 - **Course calendar:** ~~[http://web-programming.org/schedule.html](http://web-programming.org/schedule.html)~~
 - **Course syllabus:** ~~[http://web-programming.org/syllabus.html](http://web-programming.org/syllabus.html)~~
 ~~- **In-class "whiteboard":** [COMPSCI 326 Spring 2020 whiteboard](https://github.com/web-programming-org/web-programming/blob/master/COMPSCI%20326%20Spring%202020%20whiteboard.pdf)~~
