@@ -31,17 +31,17 @@ function letterFrequency3(str, char) {
   return str.split(char).length - 1;
 }
 
-console.assert(letterFrequency1('test', 't') == 2);
-console.assert(letterFrequency2('test', 't') == 2);
-console.assert(letterFrequency3('test', 't') == 2);
+console.assert(letterFrequency1('test', 't') === 2);
+console.assert(letterFrequency2('test', 't') === 2);
+console.assert(letterFrequency3('test', 't') === 2);
 
-console.assert(letterFrequency1('test', 'e') == 1);
-console.assert(letterFrequency2('test', 'e') == 1);
-console.assert(letterFrequency3('test', 'e') == 1);
+console.assert(letterFrequency1('test', 'e') === 1);
+console.assert(letterFrequency2('test', 'e') === 1);
+console.assert(letterFrequency3('test', 'e') === 1);
 
-console.assert(letterFrequency1('test', 'a') == 0);
-console.assert(letterFrequency2('test', 'a') == 0);
-console.assert(letterFrequency3('test', 'a') == 0);
+console.assert(letterFrequency1('test', 'a') === 0);
+console.assert(letterFrequency2('test', 'a') === 0);
+console.assert(letterFrequency3('test', 'a') === 0);
 
 /**
   @arg {string} str - The string to check.
