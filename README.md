@@ -2,6 +2,8 @@
 ## Fall 2020 (the below information is for Spring 2020 and being updated)
 ## Professor [Emery Berger](https://www.emeryberger.com)
 
+![UMass Web Programming](umass_netscape_05.png "UMass Web Programming")
+
 - **Lectures:** TuTh 2:00PM - 2:15PM, on Zoom
 - **Labs:** Fr 4:00PM - 4:50PM, on Zoom
 - **Course web page:** [http://web-programming.org](https://web-programming.org)
