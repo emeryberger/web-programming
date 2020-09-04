@@ -9,7 +9,8 @@
 - **Course web page:** [http://web-programming.org](https://web-programming.org)
 - **Recommended IDE:** [Visual Studio Code](https://code.visualstudio.com/).
 - **TAs:** Joseph Spitzer: [jspitzer@umass.edu](mailto:jspitzer@umass.edu), Nicolas van Kempen: [nvankemp@gmail.com](mailto:nvankemp@gmail.com)
-- **Office hours:** ~~Ziwei He: CS207, Wednesdays 2:30pm-3:30pm~~
+- **Office hours:** Professor Berger: Thursdays 3:30-4:30PM, on Zoom; 1-on-1 by appointment
+  TAs: by appointment; also available before and after labs
 - **Piazza:** [https://piazza.com/class/kd9e5szb1gs4h1](https://piazza.com/class/kd9e5szb1gs4h1)
 - **Course calendar:** ~~[http://web-programming.org/schedule.html](http://web-programming.org/schedule.html)~~
 - **Course syllabus:** ~~[http://web-programming.org/syllabus.html](http://web-programming.org/syllabus.html)~~
