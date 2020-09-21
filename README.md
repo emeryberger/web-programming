@@ -12,8 +12,8 @@
 - **Office hours:** Professor Berger: Thursdays 3:30-4:30PM, on Zoom; 1-on-1 by appointment
   TAs: by appointment; also available before and after labs
 - **Piazza:** [https://piazza.com/class/kd9e5szb1gs4h1](https://piazza.com/class/kd9e5szb1gs4h1)
-- **Course calendar:** [http://web-programming.org/schedule.html](http://web-programming.org/schedule.html)
-- **Course syllabus:** [http://web-programming.org/syllabus.html](http://web-programming.org/syllabus.html)
+- **Course calendar:** [http://web-programming.org/schedule](http://web-programming.org/schedule)
+- **Course syllabus:** [http://web-programming.org/syllabus](http://web-programming.org/syllabus)
 
 ### Course Overview
 
