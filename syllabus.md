@@ -1,5 +1,5 @@
 # [COMPSCI 326 Web Programming](http://web-programming.org)
-## Spring 2020
+## Fall 2020
 ## Professor [Emery Berger](https://www.emeryberger.com)
 
 ## Syllabus
