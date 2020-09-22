@@ -20,8 +20,6 @@
   * [In-class Exercise](https://docs.google.com/document/d/1D04hChcHINVKMjb_8GghJffgs-Cu18WRPeY5bLBRUr4/edit?usp=sharing)
 1. [More CSS and DOM surgery](TBD)
 
-### Labs
-
 ### Homeworks
 
 Individual homeworks are assigned every Saturday and due the following Monday (that is, in ten days).
