@@ -4,12 +4,12 @@
 
 ### Lectures
 
-1. [Intro/Refresher on JavaScript](https://docs.google.com/document/d/1bLSIKtaUvqflrwQUTdATLXh7698v6YNqtvRvT2kdoLY/edit?usp=sharing)
+1. [Intro/Refresher on JavaScript](https://docs.google.com/document/d/1bLSIKtaUvqflrwQUTdATLXh7698v6YNqtvRvT2kdoLY/edit?usp=sharing) [[PDF](https://github.com/web-programming-org/web-programming/blob/master/lectures/COMPSCI%20326%20F20%20-%201.%20JavaScript.pdf)]
   * [In-class Exercise: Letter frequency / palindromes](https://docs.google.com/document/d/1dIsttpaT6rr_8cBm9u5SBjOPeDBy4bGCZ9vetj9gDI8/edit?usp=sharing)
-1. [JavaScript Objects, Arrays, Functions, Iteration](https://docs.google.com/document/d/1KCVh-UZrcW9md6E5hzSGkvgKLUJPu1aF3YXAjtpDca8/edit?usp=sharing)
+1. [JavaScript Objects, Arrays, Functions, Iteration](https://docs.google.com/document/d/1KCVh-UZrcW9md6E5hzSGkvgKLUJPu1aF3YXAjtpDca8/edit?usp=sharing) [[PDF](https://github.com/web-programming-org/web-programming/blob/master/lectures/COMPSCI%20326%20F20%20-%202.%20JavaScript%2C%20cont..pdf)]
   * [In-class Exercise: Letter histogram](https://docs.google.com/document/d/1crze-uIiJyh9U-utTBKeufO99IlFdUsnbrpIo7QQP5c/edit?usp=sharing)
 1. [JavaScript Objects](https://docs.google.com/document/d/1CkzyhOEA7I8xs-TyZiX5G0s2FCK3FZR6qapsAaI3Isc/edit?usp=sharing)
-  * [In-class Exercise: decoder ring](https://docs.google.com/document/d/1YqM7AvrlHbOIlw2blKy9epRoxewLirM3m0y15tQY6RI/edit?usp=sharing) ![Decoder ring](https://raw.githubusercontent.com/web-programming-org/web-programming/master/decoder-ring.jpg)
+  * [In-class Exercise: decoder ring](https://docs.google.com/document/d/1YqM7AvrlHbOIlw2blKy9epRoxewLirM3m0y15tQY6RI/edit?usp=sharing)
 1. [JavaScript Classes](https://docs.google.com/document/d/1-5LF53UmHHF8V28y-d8S7LPCBHwg6LcPie_-N5719Fo/edit?usp=sharing)
   * [In-class Exercise: decoder ring class](https://docs.google.com/document/d/1HPhZWpQN9cmhLxWkokZknR-cMrCq_VtUVVm3-FUIZL8/edit?usp=sharing)
 1. [JavaScript Modules, HTML, the DOM](https://docs.google.com/document/d/1PROSgwoJqY1M8xV3r6qU6ESD2ERdwkHX4ujZnkO2JMM/edit?usp=sharing)
