@@ -47,6 +47,7 @@ You are welcome to store and share your team project work on a public repo!
 ### Lectures
 
 | Lecture | Exercise |
+| :------ | :------- |
 | [Intro/Refresher on JavaScript](https://docs.google.com/document/d/1bLSIKtaUvqflrwQUTdATLXh7698v6YNqtvRvT2kdoLY/edit?usp=sharing) [[PDF](https://github.com/web-programming-org/web-programming/blob/master/lectures/COMPSCI%20326%20F20%20-%201.%20JavaScript.pdf)] | [In-class Exercise: Letter frequency / palindromes](https://docs.google.com/document/d/1dIsttpaT6rr_8cBm9u5SBjOPeDBy4bGCZ9vetj9gDI8/edit?usp=sharing) |
 | [JavaScript Objects, Arrays, Functions, Iteration](https://docs.google.com/document/d/1KCVh-UZrcW9md6E5hzSGkvgKLUJPu1aF3YXAjtpDca8/edit?usp=sharing) [[PDF](https://github.com/web-programming-org/web-programming/blob/master/lectures/COMPSCI%20326%20F20%20-%202.%20JavaScript%2C%20cont..pdf)] | [In-class Exercise: Letter histogram](https://docs.google.com/document/d/1crze-uIiJyh9U-utTBKeufO99IlFdUsnbrpIo7QQP5c/edit?usp=sharing) |
 
