@@ -13,8 +13,8 @@
   TAs: by appointment; also available before and after labs
 - **Slack:** [https://compsci326-umass-f20.slack.com](COMPSCI 326 Fall 2020 Slack)
 - **Piazza:** [https://piazza.com/class/kd9e5szb1gs4h1](https://piazza.com/class/kd9e5szb1gs4h1)
-- **Course calendar:** [schedule](http://web-programming.org/schedule)
-- **Course syllabus:** [syllabus](http://web-programming.org/syllabus)
+- **Course calendar:** [schedule](https://web-programming.org/schedule)
+- **Course syllabus:** [syllabus](https://web-programming.org/syllabus)
 
 ### Course Overview
 
