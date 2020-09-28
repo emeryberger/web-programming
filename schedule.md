@@ -18,11 +18,14 @@
   * [In-class Exercise](https://docs.google.com/document/d/1kwrdoG_r7FLWIhzo4qlBUAHFZkT8ZeTdjaYKnK3FA-s/edit?usp=sharing)
 1. [Basic CSS and Grids](https://docs.google.com/document/d/1uUl8I6zmLck58o9ZPODGL9xR4graNYnRXCdrisM5Dyo/edit?usp=sharing)
   * [In-class Exercise](https://docs.google.com/document/d/1D04hChcHINVKMjb_8GghJffgs-Cu18WRPeY5bLBRUr4/edit?usp=sharing)
-1. [More CSS and DOM surgery](TBD)
+1. [More CSS and DOM surgery](https://docs.google.com/document/d/1ttfMyd_I5wORQusDeshgD8Hw6br-a9t85rRzAFD1MQ0/edit?usp=sharing)
+  * [In-class Exercise](https://docs.google.com/document/d/1WoWb9ARaLlKDqRnsBgzaLo4PYeYlg7uQUDNRdNiCNTg/edit?usp=sharing)
 
 ### Homeworks
 
 Individual homeworks are assigned every Saturday and due the following Monday (that is, in ten days).
+
+![Scrabble board](https://raw.githubusercontent.com/web-programming-org/web-programming/master/scrabble.png)
 
 1. [Scrabble Starter](https://docs.google.com/document/d/17E0dt4u2sHYN9Kn3lBIP5RT1RMi4EZOZfumNDFjxMFw/edit?usp=sharing)
 1. [Scrabble Utilities](https://docs.google.com/document/d/19nGdl5H4MVM8IdquUFmpJk9IpkZM44ps26VzMoCTHHg/edit?usp=sharing)
