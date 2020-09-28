@@ -9,8 +9,9 @@
 - **Course web page:** [https://web-programming.org](https://web-programming.org)
 - **Recommended IDE:** [Visual Studio Code](https://code.visualstudio.com/).
 - **TAs:** Joseph Spitzer: [jspitzer@umass.edu](mailto:jspitzer@umass.edu), Nicolas van Kempen: [nvankemp@gmail.com](mailto:nvankemp@gmail.com)
-- **Office hours:** Professor Berger: Thursdays 3:30-4:30PM, on Zoom; 1-on-1 by appointment
-  TAs: by appointment; also available before and after labs
+- **Office hours:**
+  - Professor Berger: Thursdays 3:30-4:30PM, on Zoom; 1-on-1 by appointment
+  - TAs: by appointment; also available before and after labs
 - **Slack:** [https://compsci326-umass-f20.slack.com](COMPSCI 326 Fall 2020 Slack)
 - **Piazza:** [https://piazza.com/class/kd9e5szb1gs4h1](https://piazza.com/class/kd9e5szb1gs4h1)
 - **Course syllabus:** [syllabus](https://web-programming.org/syllabus)
@@ -45,10 +46,10 @@ You are welcome to store and share your team project work on a public repo!
 
 ### Lectures
 
-1. [Intro/Refresher on JavaScript](https://docs.google.com/document/d/1bLSIKtaUvqflrwQUTdATLXh7698v6YNqtvRvT2kdoLY/edit?usp=sharing) [[PDF](https://github.com/web-programming-org/web-programming/blob/master/lectures/COMPSCI%20326%20F20%20-%201.%20JavaScript.pdf)]
-  * [In-class Exercise: Letter frequency / palindromes](https://docs.google.com/document/d/1dIsttpaT6rr_8cBm9u5SBjOPeDBy4bGCZ9vetj9gDI8/edit?usp=sharing)
-1. [JavaScript Objects, Arrays, Functions, Iteration](https://docs.google.com/document/d/1KCVh-UZrcW9md6E5hzSGkvgKLUJPu1aF3YXAjtpDca8/edit?usp=sharing) [[PDF](https://github.com/web-programming-org/web-programming/blob/master/lectures/COMPSCI%20326%20F20%20-%202.%20JavaScript%2C%20cont..pdf)]
-  * [In-class Exercise: Letter histogram](https://docs.google.com/document/d/1crze-uIiJyh9U-utTBKeufO99IlFdUsnbrpIo7QQP5c/edit?usp=sharing)
+| Lecture | Exercise |
+| [Intro/Refresher on JavaScript](https://docs.google.com/document/d/1bLSIKtaUvqflrwQUTdATLXh7698v6YNqtvRvT2kdoLY/edit?usp=sharing) [[PDF](https://github.com/web-programming-org/web-programming/blob/master/lectures/COMPSCI%20326%20F20%20-%201.%20JavaScript.pdf)] | [In-class Exercise: Letter frequency / palindromes](https://docs.google.com/document/d/1dIsttpaT6rr_8cBm9u5SBjOPeDBy4bGCZ9vetj9gDI8/edit?usp=sharing) |
+| [JavaScript Objects, Arrays, Functions, Iteration](https://docs.google.com/document/d/1KCVh-UZrcW9md6E5hzSGkvgKLUJPu1aF3YXAjtpDca8/edit?usp=sharing) [[PDF](https://github.com/web-programming-org/web-programming/blob/master/lectures/COMPSCI%20326%20F20%20-%202.%20JavaScript%2C%20cont..pdf)] | [In-class Exercise: Letter histogram](https://docs.google.com/document/d/1crze-uIiJyh9U-utTBKeufO99IlFdUsnbrpIo7QQP5c/edit?usp=sharing) |
+
 1. [JavaScript Objects](https://docs.google.com/document/d/1CkzyhOEA7I8xs-TyZiX5G0s2FCK3FZR6qapsAaI3Isc/edit?usp=sharing) [[PDF](https://github.com/web-programming-org/web-programming/blob/master/lectures/COMPSCI%20326%20F20%20-%203.%20JavaScript%20objects.pdf)]
   * [In-class Exercise: decoder ring](https://docs.google.com/document/d/1YqM7AvrlHbOIlw2blKy9epRoxewLirM3m0y15tQY6RI/edit?usp=sharing)
 1. [JavaScript Classes](https://docs.google.com/document/d/1-5LF53UmHHF8V28y-d8S7LPCBHwg6LcPie_-N5719Fo/edit?usp=sharing) [[PDF](https://github.com/web-programming-org/web-programming/blob/master/lectures/COMPSCI%20326%20F20%20-%204.%20JavaScript%20classes.pdf)]
