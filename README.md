@@ -28,7 +28,7 @@ There is no required text.
 
 Given that this is a programming intensive course, it is important to highlight the development environment! Generally, most of what we cover in this course is available on all the typical operating systems. However, the team project allows you to explore additional environments that may have specific OS requirements. You are welcome to use those additional libraries/tools; however, you will not receive direct support for what you use. It is your responsibility for the installation, setup, and use of those additional components. You are welcome to use any editor, IDE, or tools to explore this material.
 
-We strongly recommend that you use [Visual Studio Code](https://code.visualstudio.com/). We have also purchhased a repl.it subscription for this class.
+We strongly recommend that you use [Visual Studio Code](https://code.visualstudio.com/). We have also purchased a [repl.it](http://repl.it) subscription for this class (link distributed on Slack).
 
 ### Other Material
 
