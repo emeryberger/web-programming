@@ -70,7 +70,7 @@ You are welcome to store and share your team project work on a public repo!
 
 ### Labs
 
-[Lab notes](lab-info)
+[Lab notes](lab-info.md)
 
 ### Homeworks
 
