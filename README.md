@@ -68,6 +68,10 @@ You are welcome to store and share your team project work on a public repo!
 | SQL Databases | TBD |
 | Authentication | TBD |
 
+### Labs
+
+[Lab notes](lab-notes)
+
 ### Homeworks
 
 Individual homeworks are assigned every Saturday and due the following Monday (that is, in ten days).
