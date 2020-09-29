@@ -1,4 +1,4 @@
-*** Git ***
+### Git
   - To install git on Windows: https://git-scm.com/download/win
   - Git is a version control system, it is the most popular tool of its kind. It can be used to track any kind of file, particularly non-binary files (e.g. source code, plain text, etc.).
   - A _repository_ refers the storage location of a single (software) project. These are often hosted on a server (e.g. GitHub, GitLab, BitBucket).
@@ -49,11 +49,11 @@
   - git help: Prints more information about the given command.
     EXAMPLE: git help push
 
-*** Google Chrome ***
+### Google Chrome
   - A free, cross-platform, proprietary Web browser made by Google. It is built on top of the open-source project Chromium.
   - Developer Tools Guide: https://developers.google.com/web/tools/chrome-devtools
 
-*** JavaScript (JS) ***
+### JavaScript (JS)
   - MDN: https://developer.mozilla.org/
   - A great free textbook for learning JS: https://eloquentjavascript.net/
   - A programming language based on the ECMAScript spec. It has dynamic typing and prototype-based object-orientation. It contains similar syntax to that of C and its syntactic derivatives (e.g. Java).
@@ -73,7 +73,7 @@
       EXAMPLE: window.addEventListener('load', initFunc);
   - A few helpful technical blog posts from yours truly: https://vox.veritas.com/t5/forums/recentpostspage/post-type/message/user-id/510445
 
-*** Node.js ***
+### Node.js
   - A JS runtime outside the browser.
   - Docs: https://nodejs.org/docs/
     + Find your version, click on it, and then select "apl/".
@@ -122,7 +122,7 @@
         EXAMPLE: npx eslint <file> # runs eslint on the specified file
         NOTE: A nice feature of npx is that if a package is not installed locally it will fetch it from the registry and run it, without polluting your machine.
 
-*** Unix/Terminal ***
+### Unix/Terminal
   - On Windows, the default command prompt is bad. It uses DOS commands and not UNIX-style commands which are much more widespread.
     + cmder: Good substitute, was recommended last semester. Comes with git bundled.
     + PowerShell: Good substitute, pre-installed on all Windows machines, aliases UNIX commands to their DOS equivalents.
@@ -158,7 +158,7 @@
     + more: An older version that doesn't allow for backward scrolling. As they say, "less is more" ;)
     + Type "q" to exit. See the man(ual) page for more information (i.e. "man less"), such as faster paging commands.
 
-*** VSCode ***
+### VSCode
   - Very standard editor, supports JS, TypeScript and HTML/CSS natively (no need for additional extensions).
   - Some useful other extensions:
     + Live Server (when we start HTML/CSS): auto-refreshes the page in your browser as you edit code.
