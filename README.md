@@ -56,17 +56,35 @@ You are welcome to store and share your team project work on a public repo!
 | [JavaScript DOM events](https://docs.google.com/document/d/1jWkYwjbMNLeXwDQkKsYWiJxzNibv1iSSAhhil1toW2M/edit?usp=sharing) [[PDF](https://github.com/web-programming-org/web-programming/blob/master/lectures/COMPSCI%20326%20F20%20-%205.%20JavaScript%2C%20Modules%2C%20HTML%2C%20the%20DOM.pdf)] | [interactive decoder web page](https://docs.google.com/document/d/1kwrdoG_r7FLWIhzo4qlBUAHFZkT8ZeTdjaYKnK3FA-s/edit?usp=sharing) |
 | [Basic CSS and Grids](https://docs.google.com/document/d/1uUl8I6zmLck58o9ZPODGL9xR4graNYnRXCdrisM5Dyo/edit?usp=sharing) [[PDF](https://github.com/web-programming-org/web-programming/blob/master/lectures/COMPSCI%20326%20F20%20-%206.%20JavaScript%2C%20DOM%20events.pdf)] | [2x2 checkerboard](https://docs.google.com/document/d/1D04hChcHINVKMjb_8GghJffgs-Cu18WRPeY5bLBRUr4/edit?usp=sharing) |
 | [More CSS and DOM surgery](https://docs.google.com/document/d/1ttfMyd_I5wORQusDeshgD8Hw6br-a9t85rRzAFD1MQ0/edit?usp=sharing) [[PDF](https://github.com/web-programming-org/web-programming/blob/master/lectures/COMPSCI%20326%20F20%20-%208.%20CSS%20%26%20DOM%20surgery.pdf)] | [basic 8x8 chessboard](https://docs.google.com/document/d/1WoWb9ARaLlKDqRnsBgzaLo4PYeYlg7uQUDNRdNiCNTg/edit?usp=sharing) |
-| Advanced CSS | TBD |
-| JavaScript asynchrony | TBD |
 | Browser local storage | TBD |
 | Encryption and digests | TBD |
 | The ad ecosystem | TBD |
-| Networking and HTTP | TBD |
+| JavaScript asynchrony | TBD |
+| Networking and HTTP, `get` and `post` | TBD |
 | XHR `fetch` | TBD |
-| CRUD | TBD |
-| Key-value stores | TBD |
-| SQL Databases | TBD |
+| CRUD | in-memory CRUD server |
+| Key-value stores | persistent CRUD-server |
+| SQL Databases | SQL-backed CRUD |
+| NoSQL | MongoDB |
 | Authentication | TBD |
+| Routing | TBD |
+| Advanced Topics | TBD |
+
+### Project
+
+Project milestones are due on Fridays.
+
+_NOTE: Dates are currently tentative._
+
+| Milestone | Date |
+| :-------- | :--- |
+| [_Full project overview_](https://docs.google.com/document/d/1msb8op2QJIyz6Ke4sg6a-yoKexyJVzMfVFwHsX2Fqyc/edit?usp=sharing)    | _N/A_  |
+| [Milestone 0: Project Ideas](https://docs.google.com/document/d/1aJ_TMdzxmewlhZQQac2QlnCV3lVbwPs-pZ5Iao2gBEs/edit?usp=sharing) | October 9  |
+| Milestone 1: HTML/CSS      | October 23  |
+| Milestone 2: Front-end JavaScript | November 6  |
+| Milestone 3: Back-end Node.js and integration | November 20 |
+| Final: Public site + video | December 4 |
+
 
 ### Labs
 
@@ -83,3 +101,9 @@ Individual homeworks are assigned every Saturday and due the following Monday (t
 1. [Scrabble Game & Rack](https://docs.google.com/document/d/11b6L3gzx-5CZQSR9nBnx5As-PlOUx4VAccU5wnaRZXM/edit?usp=sharing)
 1. [Scrabble Renderer](https://docs.google.com/document/d/15osPL4_BQyI7G4ZxliepDQRlYCJG4ZipOzoBC45fDmU/edit?usp=sharing)
 1. [Scrabble Save Game & Refactor](https://docs.google.com/document/d/1Z99SWlJnV5jPNOu4_5PgsMc0N95XsANmHmi0XH-gqt0/edit?usp=sharing)
+
+### Acknowledgements
+
+Thanks to Joseph Spitzer and Nicolas van Kempen (Fall 2020), and Ziwei
+(William) He and Ishan Khatri (Spring 2020) for their help in
+creating/curating these materials.
