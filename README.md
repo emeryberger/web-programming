@@ -80,9 +80,9 @@ _NOTE: Dates are currently tentative._
 | :-------- | :--- |
 | [_Full project overview_](https://docs.google.com/document/d/1msb8op2QJIyz6Ke4sg6a-yoKexyJVzMfVFwHsX2Fqyc/edit?usp=sharing)    | _N/A_  |
 | [Milestone 0: Project Ideas](https://docs.google.com/document/d/1aJ_TMdzxmewlhZQQac2QlnCV3lVbwPs-pZ5Iao2gBEs/edit?usp=sharing) | October 9  |
-| Milestone 1: HTML/CSS      | October 23  |
-| Milestone 2: Front-end JavaScript | November 6  |
-| Milestone 3: Back-end Node.js and integration | November 20 |
+| [Milestone 1: Project Wireframes (HTML/CSS)](https://docs.google.com/document/d/1WsdY1qijEROoQCwYBcBc9YzEmK1AuBi2mdlkMaUXQ4Y/edit?usp=sharing)  | October 23  |
+| [Milestone 2: Front-end JavaScript](https://docs.google.com/document/d/1U1iXfvlNBNziRkxjKIaDFUqQ8vpYtjOBgWLPY3GRJxg/edit?usp=sharing) | November 6  |
+| [Milestone 3: Back-end Node.js and integration](https://docs.google.com/document/d/1zdw0vNJXx6sFG660pi8K8ETqm51jtXA3JnhxRa6Wxsc/edit?usp=sharing) | November 20 |
 | Final: Public site + video | December 4 |
 
 
@@ -106,4 +106,4 @@ Individual homeworks are assigned every Saturday and due the following Monday (t
 
 Thanks to Joseph Spitzer and Nicolas van Kempen (Fall 2020), and Ziwei
 (William) He and Ishan Khatri (Spring 2020) for their help in
-creating/curating these materials.
+developing and curating these materials.
