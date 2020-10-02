@@ -56,11 +56,10 @@ You are welcome to store and share your team project work on a public repo!
 | [JavaScript DOM events](https://docs.google.com/document/d/1jWkYwjbMNLeXwDQkKsYWiJxzNibv1iSSAhhil1toW2M/edit?usp=sharing) [[PDF](https://github.com/web-programming-org/web-programming/blob/master/lectures/COMPSCI%20326%20F20%20-%205.%20JavaScript%2C%20Modules%2C%20HTML%2C%20the%20DOM.pdf)] | [interactive decoder web page](https://docs.google.com/document/d/1kwrdoG_r7FLWIhzo4qlBUAHFZkT8ZeTdjaYKnK3FA-s/edit?usp=sharing) |
 | [Basic CSS and Grids](https://docs.google.com/document/d/1uUl8I6zmLck58o9ZPODGL9xR4graNYnRXCdrisM5Dyo/edit?usp=sharing) [[PDF](https://github.com/web-programming-org/web-programming/blob/master/lectures/COMPSCI%20326%20F20%20-%206.%20JavaScript%2C%20DOM%20events.pdf)] | [2x2 checkerboard](https://docs.google.com/document/d/1D04hChcHINVKMjb_8GghJffgs-Cu18WRPeY5bLBRUr4/edit?usp=sharing) |
 | [More CSS and DOM surgery](https://docs.google.com/document/d/1ttfMyd_I5wORQusDeshgD8Hw6br-a9t85rRzAFD1MQ0/edit?usp=sharing) [[PDF](https://github.com/web-programming-org/web-programming/blob/master/lectures/COMPSCI%20326%20F20%20-%208.%20CSS%20%26%20DOM%20surgery.pdf)] | [basic 8x8 chessboard](https://docs.google.com/document/d/1WoWb9ARaLlKDqRnsBgzaLo4PYeYlg7uQUDNRdNiCNTg/edit?usp=sharing) |
-| Browser local storage | TBD |
+| [Browser local storage](https://docs.google.com/document/d/1VA_haLv29Q5_uwCTUmXLruXt93pBvyYwCZY4cvbM1m8/edit?usp=sharing) [[PDF](https://github.com/web-programming-org/web-programming/blob/master/lectures/COMPSCI%20326%20F20%20-%209.%20Browser-Side%20Storage.pdf)] | [persistent encoder](https://docs.google.com/document/d/1y49fADRp_wEmCmxdaRDz2wUusrmUl_mnKKMwM5DfJ48/edit?usp=sharing) |
+| [Networking and HTTP, `get` and `post`](https://docs.google.com/document/d/1QryZVXBdxqnw0QMyfaZb8mtWlLteSXcVvQcnoL7u0zo/edit?usp=sharing) [[PDF](https://github.com/emeryberger/web-programming/blob/master/lectures/COMPSCI%20326%20F20%20-%2010.%20Networking%20%26%20HTTP.pdf)] | _N/A_ |
 | Encryption and digests | TBD |
-| The ad ecosystem | TBD |
 | JavaScript asynchrony | TBD |
-| Networking and HTTP, `get` and `post` | TBD |
 | XHR `fetch` | TBD |
 | CRUD | in-memory CRUD server |
 | Key-value stores | persistent CRUD-server |
