@@ -100,6 +100,7 @@ Individual homeworks are assigned every Saturday and due the following Monday (t
 1. [Scrabble Game & Rack](https://docs.google.com/document/d/11b6L3gzx-5CZQSR9nBnx5As-PlOUx4VAccU5wnaRZXM/edit?usp=sharing)
 1. [Scrabble Renderer](https://docs.google.com/document/d/15osPL4_BQyI7G4ZxliepDQRlYCJG4ZipOzoBC45fDmU/edit?usp=sharing)
 1. [Scrabble Save Game & Refactor](https://docs.google.com/document/d/1Z99SWlJnV5jPNOu4_5PgsMc0N95XsANmHmi0XH-gqt0/edit?usp=sharing)
+1. [Scrabble Fetch & Rack](https://docs.google.com/document/d/15oXPyuf-5VsyJ9TH7abLmDU-j67wriw7PbK4HihSFUU/edit?usp=sharing)
 
 ### Acknowledgements
 
