@@ -68,11 +68,10 @@ You can expect from us:
 
 The anticipated breakdown of course grades is as follows; this is subject to change.
 
+- Participation (5%)
+- Labs (5%)
+- Homework (50%)
 - Team Project (40%)
-- Labs (20%)
-- Participation (15%)
-- Challenges (15%)
-- Team Project Demos (10%)
 
 #### Grading Notes
 
@@ -82,23 +81,20 @@ The anticipated breakdown of course grades is as follows; this is subject to cha
 
 #### Participation
 
-For each assigned reading, there will be associated participation exercises. You will be required to complete participation exercises as part of the reading _the day after each lecture_ to be given credit. These activities are associated with the book. Several of these activities require you to simply review an animation.
-
-#### Challenges
-
-Challenges can be viewed as homework. They are basic exercises on the material that you must complete before the following week's class. These activities are associated with the book. They are automatically graded and scored based on your response. You are allowed to work on these until you get the correct answer. 
+Most classes will have in-class participation exercises. You are required to complete participation exercises _the day after each lecture_ to be given credit.
 
 #### Labs
 
-Labs are larger assignments associated with the material covered during the week that the lab is assigned. These activities are associated with the book. The labs are assigned during the lab section, you can work in teams to come up with the answer, and you may submit your answer individually by the following week.
+Labs are small individual assignments performed during lab. These must be submitted during the lab period to count for credit.
+
+### Homework
+
+Homeworks are individual programming assignments that reinforce material taught in class. In general, these are one-week long assignments.
+
 
 ####  Team Project
 
-The team project encompasses the last third of the semester - approximately 4 weeks. You will be required to work in a team of 4 students to design and implement a socially conscious web application using the three important components of web applications including HTML, CSS, and JavaScript. The design and implementation of the application is entirely up to you, but it must be socially aware, solve a real-world problem, be connected to work you have done in other areas (general education), connect to your discipline (e.g., CS, Informatics) and be relatively unique as compared to other existing applications (within reason). You are expected to _not_ use any frameworks beyond Bootstrap; other libraries are allowed only with prior consent of the professor.
-
-#### Team Project Demos
-
-The last class meeting of the semester will require you and your team to demonstrate your working project and explain its significance and impact. You will be required to have a laptop, phone, or other device that demonstrates your work and be able to answer questions from students. You will also be required to review other student projects and provide feedback as part of your grade.
+The team project encompasses the last third of the semester - approximately 4 weeks. You will be required to work in a team of 2-4 students to design and implement a web application using the three important components of web applications including HTML, CSS, and JavaScript. The design and implementation of the application is entirely up to you, but it must solve a real-world problem, be connected to work you have done in other areas (general education), connect to your discipline (e.g., CS, Informatics) and be relatively unique as compared to other existing applications (within reason). You are expected to _not_ use any frameworks beyond Bootstrap; other libraries are allowed only with prior consent of the professor.
 
 #### Final Grades
 
