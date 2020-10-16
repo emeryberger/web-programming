@@ -58,13 +58,12 @@ You are welcome to store and share your team project work on a public repo!
 | [More CSS and DOM surgery](https://docs.google.com/document/d/1ttfMyd_I5wORQusDeshgD8Hw6br-a9t85rRzAFD1MQ0/edit?usp=sharing) [[PDF](https://github.com/web-programming-org/web-programming/blob/master/lectures/COMPSCI%20326%20F20%20-%208.%20CSS%20%26%20DOM%20surgery.pdf)] | [basic 8x8 chessboard](https://docs.google.com/document/d/1WoWb9ARaLlKDqRnsBgzaLo4PYeYlg7uQUDNRdNiCNTg/edit?usp=sharing) |
 | [Browser local storage](https://docs.google.com/document/d/1VA_haLv29Q5_uwCTUmXLruXt93pBvyYwCZY4cvbM1m8/edit?usp=sharing) [[PDF](https://github.com/web-programming-org/web-programming/blob/master/lectures/COMPSCI%20326%20F20%20-%209.%20Browser-Side%20Storage.pdf)] | [persistent encoder](https://docs.google.com/document/d/1y49fADRp_wEmCmxdaRDz2wUusrmUl_mnKKMwM5DfJ48/edit?usp=sharing) |
 | [Networking and HTTP, `get` and `post`](https://docs.google.com/document/d/1QryZVXBdxqnw0QMyfaZb8mtWlLteSXcVvQcnoL7u0zo/edit?usp=sharing) [[PDF](https://github.com/emeryberger/web-programming/blob/master/lectures/COMPSCI%20326%20F20%20-%2010.%20Networking%20%26%20HTTP.pdf)] | _N/A_ |
-| Encryption and digests | TBD |
-| JavaScript asynchrony | TBD |
-| XHR `fetch` | TBD |
-| CRUD | in-memory CRUD server |
-| Key-value stores | persistent CRUD-server |
+| [Asynchrony & the JavaScript event model](https://docs.google.com/document/d/1_DawWP1QCnsotgMq7wH13rzi8UnVUPaVHkByouW_p8A/edit?usp=sharing) | _N/A_ |
+| [REST & `fetch`](https://docs.google.com/document/d/1lY8e-J22QtOXxoaJQ2btGDxE2pZxrMbsNC2wY-s8gyg/edit?usp=sharing) | [`starman.js`](https://docs.google.com/document/d/1RYwmJg-3qh0ORcECT9_j2fhMIdv7nOzuJCizy_5uJRg/edit?usp=sharing) |
+| [CRUD](https://docs.google.com/document/d/1yNqVyX8DmsCmlyCIsdScb7VGw5UxCaZRXjRgMaDQF5o/edit?usp=sharing) | [persistent key-value store](https://docs.google.com/document/d/1WMtdqbplmgFiNRehgnmZAmiBy-Me19O58KGVAEMsI5Q/edit?usp=sharing) |
 | SQL Databases | SQL-backed CRUD |
 | NoSQL | MongoDB |
+| Encryption and digests | TBD |
 | Authentication | TBD |
 | Routing | TBD |
 | Advanced Topics | TBD |
