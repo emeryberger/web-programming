@@ -90,7 +90,7 @@ _NOTE: Dates are currently tentative._
 
 ### Homeworks
 
-Individual homeworks are assigned every Saturday and due the following Monday (that is, in ten days).
+Individual homeworks are assigned every Sunday and due the following Monday.
 
 ![Scrabble board](https://raw.githubusercontent.com/web-programming-org/web-programming/master/scrabble.png)
 
@@ -100,6 +100,8 @@ Individual homeworks are assigned every Saturday and due the following Monday (t
 1. [Scrabble Renderer](https://docs.google.com/document/d/15osPL4_BQyI7G4ZxliepDQRlYCJG4ZipOzoBC45fDmU/edit?usp=sharing)
 1. [Scrabble Save Game & Refactor](https://docs.google.com/document/d/1Z99SWlJnV5jPNOu4_5PgsMc0N95XsANmHmi0XH-gqt0/edit?usp=sharing)
 1. [Scrabble Fetch & Rack](https://docs.google.com/document/d/15oXPyuf-5VsyJ9TH7abLmDU-j67wriw7PbK4HihSFUU/edit?usp=sharing)
+1. [Scrabble Server Starter](https://docs.google.com/document/d/1PMZxj9nLpOz3cgEN1gOTnzAMrmeVrfyf3cMjBRAD1eg/edit?usp=sharing)
+1. [Scrabble Multiplayer](https://docs.google.com/document/d/1ZOXDYt0qjV7jXRSMHtA8ABhFhwFYutxoyc8eaaE2RcQ/edit?usp=sharing)
 
 ### Acknowledgements
 
