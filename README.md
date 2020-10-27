@@ -102,6 +102,7 @@ Individual homeworks are assigned every Sunday and due the following Monday.
 1. [Scrabble Fetch & Rack](https://docs.google.com/document/d/15oXPyuf-5VsyJ9TH7abLmDU-j67wriw7PbK4HihSFUU/edit?usp=sharing)
 1. [Scrabble Server Starter](https://docs.google.com/document/d/1PMZxj9nLpOz3cgEN1gOTnzAMrmeVrfyf3cMjBRAD1eg/edit?usp=sharing)
 1. [Scrabble Multiplayer](https://docs.google.com/document/d/1ZOXDYt0qjV7jXRSMHtA8ABhFhwFYutxoyc8eaaE2RcQ/edit?usp=sharing)
+1. [Scrabble Rules & Fetch](https://docs.google.com/document/d/1XJbriuYZge-wbZCYqz88pjRKvoriAPFrh8aA8J1CITQ/edit?usp=sharing)
 
 ### Acknowledgements
 
