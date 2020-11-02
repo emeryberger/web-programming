@@ -103,6 +103,7 @@ Individual homeworks are assigned every Sunday and due the following Monday.
 1. [Scrabble Server Starter](https://docs.google.com/document/d/1PMZxj9nLpOz3cgEN1gOTnzAMrmeVrfyf3cMjBRAD1eg/edit?usp=sharing)
 1. [Scrabble Multiplayer](https://docs.google.com/document/d/1ZOXDYt0qjV7jXRSMHtA8ABhFhwFYutxoyc8eaaE2RcQ/edit?usp=sharing)
 1. [Scrabble Rules & Fetch](https://docs.google.com/document/d/1XJbriuYZge-wbZCYqz88pjRKvoriAPFrh8aA8J1CITQ/edit?usp=sharing)
+1. [Scrabble DBMS & Heroku](https://docs.google.com/document/d/1Fw9Mow9zuljjNqbtHCr47DXrFp7JZ1rx5hG13sPbx30/edit?usp=sharing)
 
 ### Acknowledgements
 
