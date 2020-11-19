@@ -61,12 +61,12 @@ You are welcome to store and share your team project work on a public repo!
 | [Asynchrony & the JavaScript event model](https://docs.google.com/document/d/1_DawWP1QCnsotgMq7wH13rzi8UnVUPaVHkByouW_p8A/edit?usp=sharing) [[PDF](https://github.com/web-programming-org/web-programming/blob/master/lectures/COMPSCI%20326%20F20%20-%2011.%20Asynchrony%20and%20the%20JavaScript%20Event%20Model.pdf)] | _N/A_ |
 | [REST & `fetch`](https://docs.google.com/document/d/1lY8e-J22QtOXxoaJQ2btGDxE2pZxrMbsNC2wY-s8gyg/edit?usp=sharing) [[PDF](https://github.com/web-programming-org/web-programming/blob/master/lectures/COMPSCI%20326%20F20%20-%2012.%20REST%20%26%20Fetch.pdf)] | [`starman.js`](https://docs.google.com/document/d/1RYwmJg-3qh0ORcECT9_j2fhMIdv7nOzuJCizy_5uJRg/edit?usp=sharing) |
 | [CRUD](https://docs.google.com/document/d/1yNqVyX8DmsCmlyCIsdScb7VGw5UxCaZRXjRgMaDQF5o/edit?usp=sharing) [[PDF](https://github.com/web-programming-org/web-programming/blob/master/lectures/COMPSCI%20326%20F20%20-%2013.%20CRUD.pdf)] | [persistent key-value store](https://docs.google.com/document/d/1WMtdqbplmgFiNRehgnmZAmiBy-Me19O58KGVAEMsI5Q/edit?usp=sharing) |
-| SQL Databases | SQL-backed CRUD |
-| NoSQL | MongoDB |
-| Encryption and digests | TBD |
-| Authentication | TBD |
-| Routing | TBD |
-| Advanced Topics | TBD |
+| [ACID & SQL](https://docs.google.com/document/d/1k2XSkriq7dkFUgBnSI3idhteXdFP4K4hY0fkG8ppIio/edit?usp=sharing) | SQL-backed CRUD |
+| [NoSQL](https://docs.google.com/document/d/1lsLia4Qj0YAZa3vgZlW7jocfHjax00zRMRJe5jt758k/edit?usp=sharing) | MongoDB |
+| [Regexes & Routing](https://docs.google.com/document/d/11MtiM5Hwuk4Y108Gi5Wm7pJITVN62hnGHAwA79_EQPI/edit?usp=sharing) | |
+| [Authentication](https://docs.google.com/document/d/1TUjsNfT07N8wtdn2Ky-QuylZ2jQpkINxd3j4NTlyJ_Q/edit?usp=sharing) | TBD |
+| [Passwords & Secure Authentication](https://docs.google.com/document/d/1vmjcgPSGUTKgfQVADazujWC6Ny94A6QAHPuGTOHNGco/edit?usp=sharing) | TBD |
+| [Advanced Web Development](https://docs.google.com/document/d/1ksP08SaDWfFwTDAmlKzZgWt5ymqEjfvQZaOlj_b7U0Y/edit?usp=sharing) | TBD |
 
 ### Project
 
