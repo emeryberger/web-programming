@@ -1,5 +1,6 @@
 name: Web Programming @ UMass
 description: COMPSCI 326
 # theme: jekyll-theme-slate
-remote_theme: zerostaticthemes/jekyll-serif-theme
+theme: minima
+# remote_theme: zerostaticthemes/jekyll-serif-theme
 url: "http://web-programming.org"
