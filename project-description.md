@@ -1,4 +1,4 @@
-# COMPSCI 326 Project
+# Project
 
 ## Overview
 

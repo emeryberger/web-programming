@@ -1,3 +1,5 @@
+# Lab notes
+
 ## Git
   - You can install git on Windows [here](https://git-scm.com/download/win).
   - Git is a version control system, it is the most popular tool of its kind. It can be used to track any kind of file, particularly non-binary files (e.g. source code, plain text, etc.).
