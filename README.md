@@ -64,9 +64,9 @@ You are welcome to store and share your team project work on a public repo!
 | [ACID & SQL](https://docs.google.com/document/d/1k2XSkriq7dkFUgBnSI3idhteXdFP4K4hY0fkG8ppIio/edit?usp=sharing) | SQL-backed CRUD |
 | [NoSQL](https://docs.google.com/document/d/1lsLia4Qj0YAZa3vgZlW7jocfHjax00zRMRJe5jt758k/edit?usp=sharing) | MongoDB |
 | [Regexes & Routing](https://docs.google.com/document/d/11MtiM5Hwuk4Y108Gi5Wm7pJITVN62hnGHAwA79_EQPI/edit?usp=sharing) | |
-| [Authentication](https://docs.google.com/document/d/1TUjsNfT07N8wtdn2Ky-QuylZ2jQpkINxd3j4NTlyJ_Q/edit?usp=sharing) | TBD |
-| [Passwords & Secure Authentication](https://docs.google.com/document/d/1vmjcgPSGUTKgfQVADazujWC6Ny94A6QAHPuGTOHNGco/edit?usp=sharing) | TBD |
-| [Advanced Web Development](https://docs.google.com/document/d/1ksP08SaDWfFwTDAmlKzZgWt5ymqEjfvQZaOlj_b7U0Y/edit?usp=sharing) | TBD |
+| [Authentication](https://docs.google.com/document/d/1TUjsNfT07N8wtdn2Ky-QuylZ2jQpkINxd3j4NTlyJ_Q/edit?usp=sharing) |  |
+| [Passwords & Secure Authentication](https://docs.google.com/document/d/1vmjcgPSGUTKgfQVADazujWC6Ny94A6QAHPuGTOHNGco/edit?usp=sharing) | |
+| [Advanced Web Development](https://docs.google.com/document/d/1ksP08SaDWfFwTDAmlKzZgWt5ymqEjfvQZaOlj_b7U0Y/edit?usp=sharing) | |
 
 ### Project
 
