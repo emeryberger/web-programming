@@ -3,4 +3,5 @@ description: COMPSCI 326
 # theme: jekyll-theme-slate
 # theme: minimal
 remote_theme: pmarsceill/just-the-docs
+search_enabled: false
 url: "http://web-programming.org"
