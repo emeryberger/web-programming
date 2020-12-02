@@ -4,4 +4,5 @@ description: COMPSCI 326
 # theme: minimal
 remote_theme: pmarsceill/just-the-docs
 search_enabled: false
+logo: "/umass_netscape_05.png"
 url: "http://web-programming.org"
