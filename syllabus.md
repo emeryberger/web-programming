@@ -17,7 +17,7 @@ Students in violation of this policy may face a variety of penalties,
 including removal from the classroom and the course. Students with any
 COVID symptoms must not attend any classes._
 
-### Full Policy
+#### Full Policy
 
 Students and course staff in this course are expected to do their part
 to slow the spread of COVID-19 and minimize risk of illness for all
