@@ -1,12 +1,27 @@
 # [Syllabus](https://web-programming.org)
-## Fall 2020
+## Fall 2021
 ## Professor [Emery Berger](https://www.emeryberger.com)
 
 ## Syllabus
 
+### COVID
+
+Students attending class or lab must be in full compliance with the
+UMass COVID regulations at all times. That means wearing proper masks
+(at least surgical masks, not single-ply gaiters, for example),
+covering the mouth and nose **at all times**. No removal of masks is
+permitted at any time during class or labs. If you have a valid
+medical exemption, you must notify the instructor(s) and present
+documentation prior to attending any meeting without a face covering.
+Students in violation of this policy may face a variety of penalties,
+including removal from the classroom and the class. Students with any
+COVID symptoms must not attend any classes.
+
 ### Prerequisites
 
-COMPSCI 187 and/or 186. This course assumes a good understanding of programming at the 187 (data structure implementation) or 186 level (using data structures), basic command line usage, understanding of version control systems (e.g., `git`), and object-oriented programming concepts and techniques are helpful. **Previous JavaScript background, while not required, is also helpful.** We also assume a level of maturity for success in working in a team-based environment.
+COMPSCI 220 (or 230) with a grade of C or better, or INFO 248 and COMPSCI 186/187, with a grade of C or better in each.
+
+This course assumes a good understanding of programming at the 187 (data structure implementation) or 186 level (using data structures), basic command line usage, understanding of version control systems (e.g., `git`), and object-oriented programming concepts and techniques are helpful. **Previous JavaScript background, while not required, is also helpful.** We also assume a level of maturity for success in working in a team-based environment.
 
 ### Integrative Experience
 
@@ -35,7 +50,7 @@ Lectures will be led by the professor and will provide a high-level overview of 
 
 #### Lab
 
-The Lab section is led by a teaching assistant (TA) for this course. There will also be undergraduate course assistants (UCA) assigned to your lab section. *You are expected to attend every lab section*. Labs are used to begin lab exercises in groups as well as to work on the end of semester project. Missing a lab section does not excuse you from any activities that occur during that time. Do not ask to make up any missed work during lab section time. 
+The Lab section is led by teaching assistants (TAs) for this course. There will also be undergraduate course assistants (UCA) assigned to your lab section. *You are expected to attend every lab section*. Labs are used to begin lab exercises in groups as well as to work on the end of semester project. Missing a lab section does not excuse you from any activities that occur during that time. Do not ask to make up any missed work during lab section time. 
 
 Please turn off or silence your phone during lab.
 
@@ -119,7 +134,7 @@ Your first point of contact is the teaching assistant (TA) for your assigned lab
 
 #### Online Discussion Forum
 
-We will be using [Piazza](https://piazza.com/class/k54kjhj9hsk1s4) for all communication. The discussion forum should be your first choice for asking questions as others most certainly have the same question. You should check the discussion forum before asking your question to see if the same question has already been posted. We will not answer questions that have already been answered in the discussion forum. Think before you post. We expect you to do a reasonable amount of thinking to try to solve your problems before posting for help. Make sure you are articulate and clear with your post (i.e., think before you post). You should post questions related to assignments early rather than wait until the last minute. Questions that are posted very near an assignment deadline may not be answered. Course staff are expected to answer questions Monday through Friday. **Do not expect prompt answers on Saturday, Sunday, and scheduled holidays and breaks.**
+We will be primarily relying on Slack for communication, but we will also have a Piazza site. The discussion forum should be your first choice for asking questions as others most certainly have the same question. You should check the discussion forum before asking your question to see if the same question has already been posted. We will not answer questions that have already been answered in the discussion forum. Think before you post. We expect you to do a reasonable amount of thinking to try to solve your problems before posting for help. Make sure you are articulate and clear with your post (i.e., think before you post). You should post questions related to assignments early rather than wait until the last minute. Questions that are posted very near an assignment deadline may not be answered. Course staff are expected to answer questions Monday through Friday. **Do not expect prompt answers on Saturday, Sunday, and scheduled holidays and breaks.**
 
 *Note: Do not send direct email to course staff unless your discussion section TA allows it or it is an emergency (death or extreme documented illness).*
 
