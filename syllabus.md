@@ -4,18 +4,73 @@
 
 ## Syllabus
 
-### COVID
+### COVID-19 and Face Covering Policy
 
-Students attending class or lab must be in full compliance with the
-UMass COVID regulations at all times. That means wearing proper masks
+#### TL;DR
+
+_Students attending class or lab must be in full compliance with the
+UMass COVID regulations at all times: wear proper masks
 (at least surgical masks, not single-ply gaiters, for example),
 covering the mouth and nose **at all times**. No removal of masks is
-permitted at any time during class or labs. If you have a valid
-medical exemption, you must notify the instructor(s) and present
-documentation prior to attending any meeting without a face covering.
+permitted at any time during class or labs (see below for exemptions).
 Students in violation of this policy may face a variety of penalties,
-including removal from the classroom and the class. Students with any
-COVID symptoms must not attend any classes.
+including removal from the classroom and the course. Students with any
+COVID symptoms must not attend any classes._
+
+### Full Policy
+
+Students and course staff in this course are expected to do their part
+to slow the spread of COVID-19 and minimize risk of illness for all
+community members. It is important to remember that community members
+may be vulnerable or live with vulnerable individuals.
+
+Students and course staff in this course must comply with all
+[university policies](https://www.umass.edu/coronavirus/) regarding
+COVID-19, including self-isolating (don’t come to class) if you test
+positive, have COVID-19 symptoms, or are in contact with someone who
+tests positive and meet the criteria for self-isolation (see
+[https://www.umass.edu/coronavirus/faqs](FAQs)). If you are in any
+doubt, please do not come to class — you can request an excused
+absence from any course meeting by filling out this questionnaire; you
+will not be penalized for any missed in-class participation, discussion
+exercises, etc.
+
+As of the start of the Fall 2021 semester, **everyone must wear a mask
+to all indoor course meetings**, including lectures, discussion
+sections, exams, and office hours. For more details, see the [face
+covering FAQ for the start of the Fall 2021
+semester](https://www.umass.edu/coronavirus/news/face-covering-faqs-start-fall-2021-semester). The
+only exceptions to the face-covering policy are:
+
+* Employees who receive a medical exemption through the Accessible
+Workplace Office (see [face-covering
+FAQ](https://www.umass.edu/coronavirus/news/face-covering-faqs-start-fall-2021-semester))
+
+* Students who receive a medical exemption through the Disability
+Services Office (see [face-covering
+FAQ](https://www.umass.edu/coronavirus/news/face-covering-faqs-start-fall-2021-semester)). If
+you have a valid medical exemption, you must notify the instructors
+and present documentation prior to attending a meeting without a face
+covering.
+
+* A vaccinated instructor can choose to go unmasked while teaching if they
+can maintain at least six feet of distance from where students are
+sitting in the classroom (see [Provost’s memo from 8/20/2021](https://www.umass.edu/coronavirus/news/message-provost-umass-amherst-faculty-about-fall-2021))
+
+If a student in this course does not comply with public health
+protocols (e.g., does not wear a mask), the course staff will first
+remind them of the protocols and their importance, and ask them to
+comply. If a student refuses to comply after being reminded by course
+staff, they will be asked to leave the course meeting; if they refuse,
+the course staff may elect to end the course meeting to allow other
+students and staff to leave, and then resume the course meeting on
+zoom after a short delay (if logistics permit).
+
+If a student demonstrates repeated violations of public health
+protocols after reminders, course staff will submit a referral to the
+[Student Conduct and Community Standards Office
+(SCCS)](https://t.e2ma.net/click/gjxhad/499b7y/olkfgl) in the Dean of
+Students Office.
 
 ### Prerequisites
 
