@@ -1,19 +1,19 @@
 # [COMPSCI 326 Web Programming](https://web-programming.org)
-## Fall 2020
+## Fall 2021
 ## Professor [Emery Berger](https://www.emeryberger.com)
 
 ![UMass Web Programming](umass_netscape_05.png "UMass Web Programming")
 
-- **Lectures:** TuTh 2:00PM - 2:15PM, on Zoom
-- **Labs:** Fr 4:00PM - 4:50PM, on Zoom
+- **Lectures:** TuTh 1:00PM - 2:15PM, South College Room W245
+- **Labs:** Fr 4:00PM - 4:50PM, South College Room W245
 - **Course web page:** [https://web-programming.org](https://web-programming.org)
 - **Recommended IDEs:** [Visual Studio Code](https://code.visualstudio.com/), [repl.it](https://repl.it/~)
-- **TAs:** Joseph Spitzer: [jspitzer@umass.edu](mailto:jspitzer@umass.edu), Nicolas van Kempen: [nvankemp@gmail.com](mailto:nvankemp@gmail.com)
+- **TAs:** TBA
 - **Office hours:**
-  - Professor Berger: Thursdays 3:30-4:30PM, on Zoom; 1-on-1 by appointment
+  - Professor Berger: TBD
   - TAs: by appointment; also available before and after labs
-- **Slack:** [COMPSCI 326 Fall 2020 Slack](https://compsci326-umass-f20.slack.com)
-- **Piazza:** [COMPSCI 326 Fall 2020 Piazza](https://piazza.com/class/kd9e5szb1gs4h1)
+- **Slack:** [COMPSCI 326 Fall 2021 Slack](https://compsci326web-zpw7838.slack.com/home)
+- **Piazza:** TBD
 - **Course syllabus:** [syllabus](https://web-programming.org/syllabus)
 
 ### Course Overview
