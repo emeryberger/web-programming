@@ -75,9 +75,9 @@ The anticipated breakdown of course grades is as follows; this is subject to cha
 
 #### Grading Notes
 
-- Individual projects/assignments/labs will not be scaled (curved), so don't ask.
-- The instructor may or may not choose to scale final grades, so don't ask.
-- Final grades are assigned based on the overall weighted average as defined by the grading policy. Grades will not be rounded up, so...don't ask. For example, if you achieve an 89.93 then the final letter grade will be (for example) a B+, not an A-. Do not ask.
+- Individual projects/assignments/labs will not be scaled (curved).
+- The instructor may or may not choose to scale final grades.
+- Final grades are assigned based on the overall weighted average as defined by the grading policy. Grades will not be rounded up. For example, if you achieve an 89.93 then the final letter grade will be (for example) a B+, not an A-.
 
 #### Participation
 
@@ -133,7 +133,7 @@ Accommodations are collaborative efforts between students, faculty, and Disabili
 
 #### Attendance and Participation
 
-You are expected to attend class and lab regularly, read the assigned readings before class, and participate in class discussions. Your participation will be evaluated in a variety of ways. This includes any in class activities or activities that may be given during weekly discussion sections. You are responsible for maintaining your own schedule and ensuring that you are present during activities. Do not ask to makeup missed activities.
+You are expected to attend class and lab regularly, read the assigned readings before class, and participate in class discussions. Your participation will be evaluated in a variety of ways. This includes any in class activities or activities that may be given during weekly discussion sections. You are responsible for maintaining your own schedule and ensuring that you are present during activities. It is generally not possible to makeup missed activities.
 
 #### Course Incompletes
 
