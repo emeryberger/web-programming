@@ -14,7 +14,7 @@
   - Professor Berger: TBD, also by appointment over Zoom
   - TAs/UCAs: by appointment; also available after class and before labs
 - **Slack:** [COMPSCI 326 Fall 2021 Slack](https://compsci326web-zpw7838.slack.com/home)
-- **Piazza:** [https://piazza.com/class/ksum8ybyzxq7ak?cid=8](https://piazza.com/class/ksum8ybyzxq7ak?cid=8)
+- **Piazza:** [https://piazza.com/umass/fall2021/compsci326/home](https://piazza.com/umass/fall2021/compsci326/home)
 - **Course syllabus:** [syllabus](https://web-programming.org/syllabus)
 
 ### Course Overview
