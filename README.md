@@ -8,12 +8,13 @@
 - **Labs:** Fr 4:00PM - 4:50PM, South College Room W245
 - **Course web page:** [https://web-programming.org](https://web-programming.org)
 - **Recommended IDEs:** [Visual Studio Code](https://code.visualstudio.com/), [repl.it](https://repl.it/~)
-- **TAs:** TBA
+- **TAs:** [Erin Liu](mailto:yuxinliu@umass.edu), [Sridhama Prakhya](mailto:sprakhya@umass.edu)
+- **UCAs:** [Britney Bourassa](mailto:bbourassa@umass.edu), [Bryce Parkman](mailto:bparkman@umass.edu)
 - **Office hours:**
-  - Professor Berger: TBD
-  - TAs: by appointment; also available before and after labs
+  - Professor Berger: TBD, also by appointment over Zoom
+  - TAs/UCAs: by appointment; also available after class and before labs
 - **Slack:** [COMPSCI 326 Fall 2021 Slack](https://compsci326web-zpw7838.slack.com/home)
-- **Piazza:** TBD
+- **Piazza:** [https://piazza.com/class/ksum8ybyzxq7ak?cid=8](https://piazza.com/class/ksum8ybyzxq7ak?cid=8)
 - **Course syllabus:** [syllabus](https://web-programming.org/syllabus)
 
 ### Course Overview
@@ -44,6 +45,12 @@ cheating and will result in a failure for this course.
 
 You are welcome to store and share your team project work on a public repo!
 
+### Full calendar
+
+[![Calendar](COMPSCI-326-F2021-schedule.png "Web Programming schedule")](https://docs.google.com/spreadsheets/d/1EG-K28D9ofbkSW-9K-5QNM48CpA-SdW0CeuaddIVYPk/edit?usp=sharing)
+
+The above-linked Google sheet contains the up-to-date schedule for all lectures, labs, homeworks, and project milestones.
+
 ### Lectures
 
 | Lecture | Exercise |
@@ -70,18 +77,16 @@ You are welcome to store and share your team project work on a public repo!
 
 ### Project
 
-Project milestones are due on Fridays.
-
-_NOTE: Dates are currently tentative._
+Project milestones are due on Saturdays.
 
 | Milestone | Date |
 | :-------- | :--- |
 | [_Full project overview_](https://docs.google.com/document/d/1msb8op2QJIyz6Ke4sg6a-yoKexyJVzMfVFwHsX2Fqyc/edit?usp=sharing)    | _N/A_  |
 | [Milestone 0: Project Ideas](https://docs.google.com/document/d/1aJ_TMdzxmewlhZQQac2QlnCV3lVbwPs-pZ5Iao2gBEs/edit?usp=sharing) | October 9  |
-| [Milestone 1: Project Wireframes (HTML/CSS)](https://docs.google.com/document/d/1WsdY1qijEROoQCwYBcBc9YzEmK1AuBi2mdlkMaUXQ4Y/edit?usp=sharing)  | October <strike>23</strike> 26  |
-| [Milestone 2: Front-end JavaScript](https://docs.google.com/document/d/1U1iXfvlNBNziRkxjKIaDFUqQ8vpYtjOBgWLPY3GRJxg/edit?usp=sharing) | November <strike>6</strike> 9  |
+| [Milestone 1: Project Wireframes (HTML/CSS)](https://docs.google.com/document/d/1WsdY1qijEROoQCwYBcBc9YzEmK1AuBi2mdlkMaUXQ4Y/edit?usp=sharing)  | October 23  |
+| [Milestone 2: Front-end JavaScript](https://docs.google.com/document/d/1U1iXfvlNBNziRkxjKIaDFUqQ8vpYtjOBgWLPY3GRJxg/edit?usp=sharing) | November 6 |
 | [Milestone 3: Back-end Node.js and integration](https://docs.google.com/document/d/1zdw0vNJXx6sFG660pi8K8ETqm51jtXA3JnhxRa6Wxsc/edit?usp=sharing) | November 20 |
-| Final: Public site + video | December 4 |
+| Final: Public site + video | December 11 |
 
 
 ### Labs
