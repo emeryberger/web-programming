@@ -151,7 +151,7 @@ The anticipated breakdown of course grades is as follows; this is subject to cha
 
 #### Participation
 
-Most classes will have in-class participation exercises. You are required to complete participation exercises _the day after each lecture_ to be given credit.
+Most classes will have in-class participation exercises. You are required to complete participation exercises by the stated deadline (generally by 11:59pm that day).
 
 #### Labs
 
@@ -159,7 +159,7 @@ Labs are small individual assignments performed during lab. These must be submit
 
 ### Homework
 
-Homeworks are individual programming assignments that reinforce material taught in class. In general, these are one-week long assignments.
+Homeworks are individual programming assignments that reinforce material taught in class. These are one-week long assignments.
 
 
 ####  Team Project
@@ -191,7 +191,7 @@ Your first point of contact is the teaching assistant (TA) for your assigned lab
 
 We will be primarily relying on Slack for communication, but we will also have a Piazza site. The discussion forum should be your first choice for asking questions as others most certainly have the same question. You should check the discussion forum before asking your question to see if the same question has already been posted. We will not answer questions that have already been answered in the discussion forum. Think before you post. We expect you to do a reasonable amount of thinking to try to solve your problems before posting for help. Make sure you are articulate and clear with your post (i.e., think before you post). You should post questions related to assignments early rather than wait until the last minute. Questions that are posted very near an assignment deadline may not be answered. Course staff are expected to answer questions Monday through Friday. **Do not expect prompt answers on Saturday, Sunday, and scheduled holidays and breaks.**
 
-*Note: Do not send direct email to course staff unless your discussion section TA allows it or it is an emergency (death or extreme documented illness).*
+*Note: Do not send direct email to course staff unless your discussion section TA allows it or it is an emergency (e.g., illness).*
 
 ##### Equality Statement
 
@@ -203,7 +203,7 @@ Accommodations are collaborative efforts between students, faculty, and Disabili
 
 #### Attendance and Participation
 
-You are expected to attend class and lab regularly, read the assigned readings before class, and participate in class discussions. Your participation will be evaluated in a variety of ways. This includes any in class activities or activities that may be given during weekly discussion sections. You are responsible for maintaining your own schedule and ensuring that you are present during activities. It is generally not possible to makeup missed activities.
+You are expected to attend class and lab regularly, read any assigned readings before class, and participate in class discussions and activities. Your participation will be evaluated in a variety of ways. This includes any in class activities or activities that may be given during weekly discussion sections. You are responsible for maintaining your own schedule and ensuring that you are present during activities. It is generally not possible to makeup missed activities.
 
 #### Course Incompletes
 
