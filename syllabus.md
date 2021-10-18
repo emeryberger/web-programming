@@ -199,7 +199,8 @@ The professor is dedicated to establishing a learning environment that promotes 
 
 #### Accommodations
 
-Accommodations are collaborative efforts between students, faculty, and Disability Services (DS). Students with accommodations approved through DS are responsible for contacting the faculty member in charge of the course prior to or during the first week of the term to discuss accommodations. Students who believe they are eligible for accommodations but who have not yet obtained approval through DS should contact DS immediately at (413) 545-0892. If you are a student with a documented disability and are registered with Disability Services, please contact me immediately to facilitate arranging academic accommodations. Reasonable arrangements will be made in accordance with your accommodations provided by DS in the context of this course.
+The University of Massachusetts Amherst is committed to providing an equal educational opportunity for all students.  If you have a documented physical, psychological, or learning disability on file with Disability Services (DS), you may be eligible for reasonable academic accommodations to help you succeed in this course.  If you have a documented disability that requires an accommodation, please notify me within the first two weeks of the semester so that we may make appropriate arrangements.  For further information, please visit Disability Services (https://www.umass.edu/disability/)
+
 
 #### Attendance and Participation
 
@@ -212,6 +213,8 @@ Students who are unable to complete course requirements within the allotted time
 Note: an incomplete means you are on your own to complete the material agreed upon by the instructor of this course. Do not expect additional help or one-on-one teaching of the material past the course completion date. It is your responsibility to complete the remaining material.
 
 #### Academic Honesty
+
+Since the integrity of the academic enterprise of any institution of higher education requires honesty in scholarship and research, academic honesty is required of all students at the University of Massachusetts Amherst.  Academic dishonesty is prohibited in all programs of the University.  Academic dishonesty includes but is not limited to: cheating, fabrication, plagiarism, and facilitating dishonesty.  Appropriate sanctions may be imposed on any student who has committed an act of academic dishonesty.  Instructors should take reasonable steps to address academic misconduct.  Any person who has reason to believe that a student has committed academic dishonesty should bring such information to the attention of the appropriate course instructor as soon as possible.  Instances of academic dishonesty not related to a specific course should be brought to the attention of the appropriate department Head or Chair.  Since students are expected to be familiar with this policy and the commonly accepted standards of academic integrity, ignorance of such standards is not normally sufficient evidence of lack of intent (http://www.umass.edu/dean_students/codeofconduct/acadhonesty/).
 
 *Overview*
 
