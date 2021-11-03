@@ -113,12 +113,11 @@ Please turn off or silence your phone during lab.
 
 #### Student Responsibilities
 
-This course has seven important rules. If you follow these rules, your odds of learning the material and achieving a good grade in this course will improve greatly.
+If you follow these rules, your odds of learning the material and achieving a good grade in this course will improve greatly.
 
-1. Do the assigned reading from the book.
-1. Read the assignment documentation early.
-1. Do your work on time, submit your work on time, make sure you submitted the correct work.
-1. Communicate with other students in the course, the professor, and any other course staff for help.
+1. Read the assignment documentation early and carefully.
+1. Do your work on time, submit your work on time, and make sure you submitted the correct work.
+1. Communicate with other students in the course, the professor, and other course staff for help.
 1. Be honest in the work you do and the submissions you make.
 1. Communicate with me and others in the course with respect and understanding.
 1. Do not ask to submit assignments after the due date.
