@@ -1,20 +1,20 @@
 # [COMPSCI 326 Web Programming](https://web-programming.org)
-## Fall 2021
+## Fall 2022
 ## Professor [Emery Berger](https://www.emeryberger.com)
 
 ![UMass Web Programming](umass_netscape_05.png "UMass Web Programming")
 
-- **Lectures:** TuTh 1:00PM - 2:15PM, South College Room W245
-- **Labs:** Fr 4:00PM - 4:50PM, South College Room W245
+- **Lectures:** TuTh 1:00PM - 2:15PM, Goessmann Laboratory room 20
+- **Labs:** Fr 4:00PM - 4:50PM, Goessmann Laboratory room 20
 - **Course web page:** [https://web-programming.org](https://web-programming.org)
-- **Recommended IDEs:** [Visual Studio Code](https://code.visualstudio.com/), [repl.it](https://repl.it/~)
-- **TAs:** [Erin Liu](mailto:yuxinliu@umass.edu), [Sridhama Prakhya](mailto:sprakhya@umass.edu)
-- **UCAs:** [Britney Bourassa](mailto:bbourassa@umass.edu), [Bryce Parkman](mailto:bparkman@umass.edu)
+- **Recommended IDEs:** [Visual Studio Code](https://code.visualstudio.com/)
+- **TAs:** [Hunter McNichols](mailto:wmcnichols@umass.edu), [Dzung Pham](mailto:dungpham@umass.edu)
+- **UCAs:** TBD
 - **Office hours:**
   - Professor Berger: TBD, also by appointment over Zoom
   - TAs/UCAs: by appointment; also available after class and before labs
-- **Slack:** [COMPSCI 326 Fall 2021 Slack](https://compsci326web-zpw7838.slack.com/home)
-- **Piazza:** [https://piazza.com/umass/fall2021/compsci326/home](https://piazza.com/umass/fall2021/compsci326/home)
+- **Slack:** [COMPSCI 326 Fall 2022 Slack](https://web-programming-f2022.slack.com)
+- **Piazza:** [COMPSCI 326 Fall 2022 Piazza](https://piazza.com/umass/fall2022/compsci326/home)
 - **Course syllabus:** [syllabus](https://web-programming.org/syllabus)
 
 ### Course Overview
@@ -35,7 +35,7 @@ We strongly recommend that you use [Visual Studio Code](https://code.visualstudi
 
 It is assumed that you have a computer to use for assignments in this
 course. You should make sure to commit your work frequently to
-GitHub. We will not accept excuses for missing or accidental deletion
+GitHub. We will not be able to accept excuses for missing or accidental deletion
 of work.
 
 _Note_: you may only use GitHub for storing your work on individual
@@ -44,6 +44,9 @@ repositories to store assignment solutions on GitHub is considered
 cheating and will result in a failure for this course.
 
 You are welcome to store and share your team project work on a public repo!
+
+
+### EVERYTHING BELOW HERE IS BEING UPDATED
 
 ### Full calendar
 
