@@ -54,9 +54,10 @@ You are welcome to store and share your team project work on a public repo!
 
 The above-linked Google sheet contains the up-to-date schedule and links for all lectures, labs, homeworks, and project milestones.
 
-### Project
+Homeworks are assigned on Tuesdays and due the following
+Monday. Project milestones are due on Sundays.
 
-Project milestones are due on Saturdays.
+### Project
 
 | Milestone | Date |
 | :-------- | :--- |
