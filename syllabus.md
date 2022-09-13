@@ -93,7 +93,7 @@ The anticipated breakdown of course grades is as follows; this is subject to cha
 
 - Participation (5%)
 - Labs (5%)
-- Homework (15%)
+- Homework (10%)
 - Exams (50%)
 - Team Project (30%)
 
