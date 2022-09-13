@@ -1,76 +1,15 @@
 # [Syllabus](https://web-programming.org)
-## Fall 2021
+## Fall 2022
 ## Professor [Emery Berger](https://www.emeryberger.com)
 
 ## Syllabus
 
 ### COVID-19 and Face Covering Policy
 
-#### TL;DR
-
-_Students attending class or lab must be in full compliance with the
-UMass COVID regulations at all times: wear proper masks
-(at least surgical masks, not single-ply gaiters, for example),
-covering the mouth and nose **at all times**. No removal of masks is
-permitted at any time during class or labs (see below for exemptions).
-Students in violation of this policy may face a variety of penalties,
-including removal from the classroom and the course. Students with any
-COVID symptoms must not attend any classes._
-
-#### Full Policy
-
-Students and course staff in this course are expected to do their part
-to slow the spread of COVID-19 and minimize risk of illness for all
-community members. It is important to remember that community members
-may be vulnerable or live with vulnerable individuals.
-
-Students and course staff in this course must comply with all
-[university policies](https://www.umass.edu/coronavirus/) regarding
-COVID-19, including self-isolating (don’t come to class) if you test
-positive, have COVID-19 symptoms, or are in contact with someone who
-tests positive and meet the criteria for self-isolation (see
-[https://www.umass.edu/coronavirus/faqs](FAQs)). If you are in any
-doubt, please do not come to class — you can request an excused
-absence from any course meeting by filling out this questionnaire; you
-will not be penalized for any missed in-class participation, discussion
-exercises, etc.
-
-As of the start of the Fall 2021 semester, **everyone must wear a mask
-to all indoor course meetings**, including lectures, discussion
-sections, exams, and office hours. For more details, see the [face
-covering FAQ for the start of the Fall 2021
-semester](https://www.umass.edu/coronavirus/news/face-covering-faqs-start-fall-2021-semester). The
-only exceptions to the face-covering policy are:
-
-* Employees who receive a medical exemption through the Accessible
-Workplace Office (see [face-covering
-FAQ](https://www.umass.edu/coronavirus/news/face-covering-faqs-start-fall-2021-semester))
-
-* Students who receive a medical exemption through the Disability
-Services Office (see [face-covering
-FAQ](https://www.umass.edu/coronavirus/news/face-covering-faqs-start-fall-2021-semester)). If
-you have a valid medical exemption, you must notify the instructors
-and present documentation prior to attending a meeting without a face
-covering.
-
-* A vaccinated instructor can choose to go unmasked while teaching if they
-can maintain at least six feet of distance from where students are
-sitting in the classroom (see [Provost’s memo from 8/20/2021](https://www.umass.edu/coronavirus/news/message-provost-umass-amherst-faculty-about-fall-2021))
-
-If a student in this course does not comply with public health
-protocols (e.g., does not wear a mask), the course staff will first
-remind them of the protocols and their importance, and ask them to
-comply. If a student refuses to comply after being reminded by course
-staff, they will be asked to leave the course meeting; if they refuse,
-the course staff may elect to end the course meeting to allow other
-students and staff to leave, and then resume the course meeting on
-zoom after a short delay (if logistics permit).
-
-If a student demonstrates repeated violations of public health
-protocols after reminders, course staff will submit a referral to the
-[Student Conduct and Community Standards Office
-(SCCS)](https://t.e2ma.net/click/gjxhad/499b7y/olkfgl) in the Dean of
-Students Office.
+While masks are not currently required by the University, they remain
+an effective tool for battling the ongoing COVID-19 pandemic. Students
+attending class are welcome to wear masks, and their decision to do so
+will be treated with respect.
 
 ### Prerequisites
 
@@ -99,13 +38,27 @@ The learning outcomes of this course are:
 
 #### Lectures
 
-Lectures will be led by the professor and will provide a high-level overview of the course material. The presentation format will include a variety of slides, written notes, programming examples, activities, etc. All material will be available through the course learning management system site (e.g., Moodle, Piazza). You are expected to attend every lecture and arrive promptly so you do not disturb others.
+Lectures will be led by the professor and will provide a high-level
+overview of the course material. The presentation format will include
+a variety of slides, written notes, programming examples, activities,
+etc. All material will be available through the course learning
+management system site (e.g., Moodle, Piazza, Slack). You are expected
+to attend every lecture and arrive promptly so you do not disturb
+others.
 
-**The use of laptops or other electronic devices during class, including phones, is not allowed without prior consent of the professor. Phones should be silenced or turned off.**
+**The use of laptops or other electronic devices during class,
+  including phones, is allowed only with prior consent of the
+  professor. Phones should be silenced or turned off.**
 
 #### Lab
 
-The Lab section is led by teaching assistants (TAs) for this course. There will also be undergraduate course assistants (UCA) assigned to your lab section. *You are expected to attend every lab section*. Labs are used to begin lab exercises in groups as well as to work on the end of semester project. Missing a lab section does not excuse you from any activities that occur during that time. Do not ask to make up any missed work during lab section time. 
+The Lab section is led by teaching assistants (TAs) for this
+course. There will also be undergraduate course assistants (UCA)
+assigned to your lab section. *You are expected to attend every lab
+section*. Labs are used to begin lab exercises in groups as well as to
+work on the end of semester project. Missing a lab section does not
+excuse you from any activities that occur during that time. Do not ask
+to make up any missed work during lab section time.
 
 Please turn off or silence your phone during lab.
 
@@ -123,6 +76,7 @@ If you follow these rules, your odds of learning the material and achieving a go
 1. Do not ask to submit assignments after the due date.
 
 #### Instructor Responsibilities
+
 You can expect from us:
 
 - Timely release of course assignments.
@@ -139,18 +93,18 @@ The anticipated breakdown of course grades is as follows; this is subject to cha
 
 - Participation (5%)
 - Labs (5%)
-- Homework (50%)
-- Team Project (40%)
+- Homework (15%)
+- Exams (50%)
+- Team Project (30%)
 
 #### Grading Notes
 
-- Individual projects/assignments/labs will not be scaled (curved).
-- The instructor may or may not choose to scale final grades.
-- Final grades are assigned based on the overall weighted average as defined by the grading policy. Grades will not be rounded up. For example, if you achieve an 89.93 then the final letter grade will be (for example) a B+, not an A-.
+- While individual projects/assignments/labs/exams will not be curved, final grades are generally scaled (though this is at the discretion of the instructor).
+- Final grades are assigned based on the overall weighted average as defined by the grading policy. For example, if you achieve an 89.93 then the final letter grade will be (for example) a B+, not an A-.
 
 #### Participation
 
-Most classes will have in-class participation exercises. You are required to complete participation exercises by the stated deadline (generally by 11:59pm that day).
+Most classes will have in-class participation exercises. You are required to complete participation exercises by the stated deadline.
 
 #### Labs
 
@@ -160,35 +114,75 @@ Labs are small individual assignments performed during lab. These must be submit
 
 Homeworks are individual programming assignments that reinforce material taught in class. These are one-week long assignments.
 
-
 ####  Team Project
 
-The team project encompasses the last third of the semester - approximately 4 weeks. You will be required to work in a team of 2-4 students to design and implement a web application using the three important components of web applications including HTML, CSS, and JavaScript. The design and implementation of the application is entirely up to you, but it must solve a real-world problem, be connected to work you have done in other areas (general education), connect to your discipline (e.g., CS, Informatics) and be relatively unique as compared to other existing applications (within reason). You are expected to _not_ use any frameworks beyond Bootstrap; other libraries are allowed only with prior consent of the professor.
+The team project encompasses the last third of the semester -
+approximately 4 weeks. You will be required to work in a team of 2-4
+students to design and implement a web application using the three
+important components of web applications including HTML, CSS, and
+JavaScript. The design and implementation of the application is
+entirely up to you, but it must solve a real-world problem, be
+connected to work you have done in other areas (general education),
+connect to your discipline (e.g., CS) and be relatively unique as
+compared to other existing applications (within reason). You are
+expected to _not_ use any frameworks beyond Bootstrap; other libraries
+are allowed only with prior consent of the professor.
 
 #### Final Grades
 
-To evaluate your understanding of the course content, we will use scores achieved on each of the above assessment components. Your final grade will convey what you know from the course and how well you know it. Missing assignments can have a dramatic impact on your final grade so it is important that you are attentive to submission deadlines and avoid any missing work. The _typical_ breakdown of percentages and final grades for this course are A (93-100), A- (90-92), B+ (87-89), B (83-86), B- (80-82), C+ (77-79), C (73-76), C- (70-72), D+ (67-69), D (60-66), F (0-59). This grading scheme may be adjusted based on the overall performance of students in the course.
+To evaluate your understanding of the course content, we will use
+scores achieved on each of the above assessment components. Your final
+grade will convey what you know from the course and how well you know
+it. Missing assignments can have a substantial impact on your final grade
+so it is important that you are attentive to submission deadlines and
+avoid any missing work. The _typical_ breakdown of percentages and
+final grades for this course are A (93-100), A- (90-92), B+ (87-89), B
+(83-86), B- (80-82), C+ (77-79), C (73-76), C- (70-72), D+ (67-69), D
+(60-66), F (0-59). This grading scheme may be adjusted based on the
+overall performance of students in the course.
 
 #### Lateness
 
-*Late submissions for any assessment component will not be accepted*. It is your responsibility for maintaining your own schedule and being prompt with your submissions. We expect that you become familiar with the course submission software and verify that your submission has been properly uploaded. We will not accept late submissions due to lack of checking on this. We assume:
-
-- You are an adult and have the ability to check and verify your work has been received properly.
-- You are capable of using GitHub, DropBox, Google Drive, or some other backup software to ensure that your work is not lost in the event of a computer failure.
-- You have a back-up plan in place in the event that your computer fails or your internet connection is unavailable. Make sure you have a plan B and C if your computer crashes or your internet is unavailable. This is your responsibility.
-- To ensure that you submit projects on time you should begin them early and not wait until the last minute to submit. You will be able to submit multiple times so submit early and often to ensure you have something in before the deadline.
+*Late submissions for any assessment component will not be
+ accepted*. It is your responsibility for maintaining your own
+ schedule and being prompt with your submissions. We strongly recommend
+ that you commit your code early and often.
 
 #### Assignment Submission
 
-Assignments will be submitted electronically. You are responsible for submitting your assignments by the assigned due date. The due dates for assignments will be clearly indicated on the schedule and it is your responsibility to update your own calendar so you are aware of due dates.
+Assignments will be submitted electronically. You are responsible for
+submitting your assignments by the assigned due date. The due dates
+for assignments will be clearly indicated on the schedule and it is
+your responsibility to update your own calendar so you are aware of
+due dates.
 
 #### Communication
 
-Your first point of contact is the teaching assistant (TA) for your assigned lab section. That is, if you have a problem in the course, an assignment, a question about a participation/challenge/lab grade, or a question about the material, you should first approach the TA leading your lab. If they are unable to answer your question they will communicate this to the professor and the professor will provide an answer.
+Your first point of contact is the teaching assistant (TA) for your
+assigned lab section. That is, if you have a problem in the course, an
+assignment, a question about a participation/challenge/lab grade, or a
+question about the material, you should first approach the TA leading
+your lab. If they are unable to answer your question they will
+communicate this to the professor and the professor will provide an
+answer.
 
 #### Online Discussion Forum
 
-We will be primarily relying on Slack for communication, but we will also have a Piazza site. The discussion forum should be your first choice for asking questions as others most certainly have the same question. You should check the discussion forum before asking your question to see if the same question has already been posted. We will not answer questions that have already been answered in the discussion forum. Think before you post. We expect you to do a reasonable amount of thinking to try to solve your problems before posting for help. Make sure you are articulate and clear with your post (i.e., think before you post). You should post questions related to assignments early rather than wait until the last minute. Questions that are posted very near an assignment deadline may not be answered. Course staff are expected to answer questions Monday through Friday. **Do not expect prompt answers on Saturday, Sunday, and scheduled holidays and breaks.**
+We will be primarily relying on Slack for communication, but we will
+also have a Piazza site. The discussion forum should be your first
+choice for asking questions as others most certainly have the same
+question. You should check the discussion forum before asking your
+question to see if the same question has already been posted. We will
+not answer questions that have already been answered in the discussion
+forum. Think before you post. We expect you to do a reasonable amount
+of thinking to try to solve your problems before posting for
+help. Make sure you are articulate and clear with your post (i.e.,
+think before you post). You should post questions related to
+assignments early rather than wait until the last minute. Questions
+that are posted very near an assignment deadline may not be
+answered. Course staff are expected to answer questions Monday through
+Friday. **Do not expect prompt answers on Saturday, Sunday, and
+scheduled holidays and breaks.**
 
 *Note: Do not send direct email to course staff unless your discussion section TA allows it or it is an emergency (e.g., illness).*
 
